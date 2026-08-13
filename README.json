@@ -1,0 +1,1299 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-htmx",
+          "description": "Django integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-05T23:41:01Z",
+            "owner": "adamchainz",
+            "repo": "django-htmx",
+            "stars": 2003
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DelphiMVCFramework",
+          "description": "DelphiMVCFramework integration support for htmx (class helper in MVCFramework.HTMX)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Pascal",
+            "last_commit": "2026-08-11T22:17:54Z",
+            "owner": "danieleteti",
+            "repo": "delphimvcframework",
+            "stars": 1396
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clace",
+          "description": "Hypermedia based internal tools for teams. Application server for containerized apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T21:40:25Z",
+            "owner": "openrundev",
+            "repo": "openrun",
+            "stars": 929
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ludic",
+          "description": "Lightweight framework for building dynamic HTML pages in pure Python with HTMX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-20T20:12:52Z",
+            "owner": "getludic",
+            "repo": "ludic",
+            "stars": 890
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "htmx-go",
+          "description": "Go integration compatible with , prioritizing type safety.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-11-30T02:48:07Z",
+            "owner": "angelofallars",
+            "repo": "htmx-go",
+            "stars": 809
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "htmx-lsp",
+          "description": "Language Server Protocol for Neovim to supercharge HTMX development",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-10-18T21:32:49Z",
+            "owner": "ThePrimeagen",
+            "repo": "htmx-lsp",
+            "stars": 708
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "htmx-spring-boot",
+          "description": "Spring Boot support library for htmx",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-03-14T17:02:28Z",
+            "owner": "wimdeblauwe",
+            "repo": "htmx-spring-boot",
+            "stars": 688
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "htmx.net",
+          "description": "ASP.NET Core integration (Htmx Extension Methods, TagHelpers, Htmx.Config)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-02T18:21:57Z",
+            "owner": "khalidabuhakmeh",
+            "repo": "Htmx.Net",
+            "stars": 578
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "laravel-htmx",
+          "description": "Laravel integration for htmx.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-03-19T19:17:51Z",
+            "owner": "mauricius",
+            "repo": "laravel-htmx",
+            "stars": 365
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "elem-go",
+          "description": "A Go library for building HTML with htmx.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-20T02:55:23Z",
+            "owner": "chasefleming",
+            "repo": "elem-go",
+            "stars": 364
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "htmx-debugger",
+          "description": "A Chrome extension for debugging and viewing htmx events and attributes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-30T18:13:30Z",
+            "owner": "NomadicDaddy",
+            "repo": "htmx-debugger",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "htmx-rails",
+          "description": "Rails integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-07-12T12:49:25Z",
+            "owner": "rootstrap",
+            "repo": "htmx-rails",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "codeigniter-htmx",
+          "description": "CodeIgniter 4 framework integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-24T09:45:12Z",
+            "owner": "michalsn",
+            "repo": "codeigniter-htmx",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Giraffe.Htmx",
+          "description": "Extensions for Giraffe to support development with htmx.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2024-05-23T23:10:18Z",
+            "owner": "bit-badger",
+            "repo": "Giraffe.Htmx",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "htmx-ext-shoelace",
+          "description": "An extension to make Shoelace elements work seamlessly with HTMX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-02-15T09:29:44Z",
+            "owner": "benopotamus",
+            "repo": "htmx-ext-shoelace",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "swift-http-types-htmx",
+          "description": "HTMX extensions for swift-http-types",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-09-18T23:03:59Z",
+            "owner": "alephao",
+            "repo": "swift-http-types-htmx",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CakePHP-htmx",
+          "description": "CakePHP integration for Htmx.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-12-03T15:08:25Z",
+            "owner": "zunnu",
+            "repo": "cake-htmx",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-js-lib-htmx",
+          "description": "Django package containing the htmx scripts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-10-09T17:36:41Z",
+            "owner": "nonZero",
+            "repo": "django-js-lib-htmx",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HTMX for ⚡️ fiber",
+          "description": "A middleware to render HTMX components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-08-10T04:13:01Z",
+            "owner": "ZEISS",
+            "repo": "fiber-htmx",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HTMX",
+          "description": "🔨Write HTML and HTMX applications in pure Go and a lot more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-08-10T04:12:38Z",
+            "owner": "katallaxie",
+            "repo": "htmx",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Examples by Back-end"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "aspnet-core-htmx-example",
+          "description": "Demonstrates the use of htmx with ASP.NET Core Razor Pages to create a simple CRUD web application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-11-11T14:05:23Z",
+            "owner": "mryderie",
+            "repo": "aspnet-core-htmx-example",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "htmx-with-aspnet-core",
+          "description": "Htmx with asp.net core.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2021-05-30T07:08:11Z",
+            "owner": "jerriepelser-blog",
+            "repo": "htmx-with-aspnet-core",
+            "stars": 38
+          }
+        }
+      ],
+      "title": "ASP.net"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "babashka-htmx-todoapp",
+          "description": "Quick example of a todo list application using Babashka and htmx.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2024-03-14T11:03:13Z",
+            "owner": "prestancedesign",
+            "repo": "babashka-htmx-todoapp",
+            "stars": 176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "panas.example",
+          "description": "Implementation of all htmx examples using Babashka.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2023-05-27T03:43:43Z",
+            "owner": "keychera",
+            "repo": "panas.example",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "contact.app-clj",
+          "description": "Clojure implementation of the contact.app from the Hypermedia Systems book",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2024-04-09T10:27:30Z",
+            "owner": "rmrt1n",
+            "repo": "contact.app-clj",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Clojure"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cl-trello-clone",
+          "description": "A small Trello clone built in Common Lisp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2021-07-19T23:21:06Z",
+            "owner": "rajasegar",
+            "repo": "cl-trello-clone",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ccl-demo-raja",
+          "description": "A Common Lisp demo with htmx using Star wars API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2021-07-01T07:44:20Z",
+            "owner": "rajasegar",
+            "repo": "ccl-demo-raja",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cl-github-timeline",
+          "description": "Github timeline in Common Lisp, and another example based on this one using FastAPI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2021-08-02T11:52:33Z",
+            "owner": "rajasegar",
+            "repo": "cl-github-timeline",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Common Lisp"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "todomvc-htmx",
+          "description": "TodoMVC app implemented using htmx and hyperscript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2021-04-05T02:56:39Z",
+            "owner": "rajasegar",
+            "repo": "todomvc-htmx",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "htmx-twitter-clone",
+          "description": "A Twitter clone built using htmx.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-04-08T06:10:40Z",
+            "owner": "rajasegar",
+            "repo": "htmx-twitter-clone",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "htmx-calendar",
+          "description": "Calendar component in htmx.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Pug",
+            "last_commit": "2022-08-09T09:00:51Z",
+            "owner": "rajasegar",
+            "repo": "htmx-calendar",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "htmbox",
+          "description": "A Dropbox clone in htmx.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Pug",
+            "last_commit": "2021-03-31T04:52:22Z",
+            "owner": "rajasegar",
+            "repo": "htmx-dropbox",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "htmx-notes",
+          "description": "A Note-taking app using Markdown inspired by React Server Components demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2021-04-08T05:45:21Z",
+            "owner": "rajasegar",
+            "repo": "htmx-notes",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "htmx-tabular",
+          "description": "Tabular data with htmx.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Pug",
+            "last_commit": "2021-03-31T04:58:42Z",
+            "owner": "rajasegar",
+            "repo": "htmx-tabular",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "super-rentals-htmx",
+          "description": "A Rentals Listing demo app built with htmx.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2021-04-08T04:37:17Z",
+            "owner": "rajasegar",
+            "repo": "super-rentals-htmx",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "htmx-github-search",
+          "description": "A GitHub Profile search component built using htmx.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2021-03-08T11:17:00Z",
+            "owner": "rajasegar",
+            "repo": "htmx-github-search",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Geo Selector in htmx",
+          "description": "A Region, Sub-Region and Country selector based on user selections.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-08-06T04:17:18Z",
+            "owner": "rajasegar",
+            "repo": "htmx-geo-selector",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hx-swap-demo",
+          "description": "A demo app to showcase different attribute values of hx-swap in htmx.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Pug",
+            "last_commit": "2021-03-13T07:26:46Z",
+            "owner": "rajasegar",
+            "repo": "hx-swap-demo",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "todo-htmx",
+          "description": "A simple Todo list with Express and htmx.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Pug",
+            "last_commit": "2021-03-07T01:00:21Z",
+            "owner": "rajasegar",
+            "repo": "todo-htmx",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Express"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pagoda",
+          "description": "Rapid, easy full-stack web development starter kit in Go with HTMX support and examples.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-24T00:04:07Z",
+            "owner": "mikestefanello",
+            "repo": "pagoda",
+            "stars": 2952
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pushup",
+          "description": "A server-side, page-oriented web framework for the Go programming language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-02T12:49:42Z",
+            "owner": "adhocteam",
+            "repo": "pushup",
+            "stars": 855
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GO HTMX",
+          "description": "Seamless HTMX Integration for Go Applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-07T18:46:46Z",
+            "owner": "donseba",
+            "repo": "go-htmx",
+            "stars": 592
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simple Counter App",
+          "description": "A simple counter app built with , , and .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-20T02:55:23Z",
+            "owner": "chasefleming",
+            "repo": "elem-go",
+            "stars": 364
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Todo App",
+          "description": "A todo app built with , , and .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-20T02:55:23Z",
+            "owner": "chasefleming",
+            "repo": "elem-go",
+            "stars": 364
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Realtime Todo App",
+          "description": "This is a Go Todo App using WebSockets, HTMX, and DOM-Morphing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-11-13T09:22:53Z",
+            "owner": "gobijan",
+            "repo": "go-htmx-todo",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TodoMVC App",
+          "description": "TodoMVC App built with , , and .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-02-04T13:32:25Z",
+            "owner": "syarul",
+            "repo": "todomvc-go-templ-htmx-_hyperscript",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Probe",
+          "description": "Probe is a Go web app with an HTMX-enhanced UI for interacting with Kubernetes clusters and performing network diagnostics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-04-22T20:28:36Z",
+            "owner": "michaeljsaenz",
+            "repo": "kshot",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Go"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Spring-Boot HTMX",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-02-02T16:55:33Z",
+            "owner": "wiverson",
+            "repo": "htmx-demo",
+            "stars": 328
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frisson: Easy, Powerful Full Stack with Spring Boot and HTMX",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-04-04T01:03:05Z",
+            "owner": "ChangeNode",
+            "repo": "spring-boot-supabase",
+            "stars": 207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spring Boot HTMX integration",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-03-11T12:06:57Z",
+            "owner": "odrotbohm",
+            "repo": "spring-playground",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TodoWebflux Spring Boot HTMX demo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-07-10T16:58:39Z",
+            "owner": "dsyer",
+            "repo": "spring-todo-mvc",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "java-htmx-todo",
+          "description": "Todo app using Javalin, htmx and j2html.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-08-21T13:19:18Z",
+            "owner": "AussieGuy0",
+            "repo": "java-htmx-todo",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Java"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "htmx-ktor",
+          "description": "Fullstack CRUD app example made with Ktor (Backend), kotlin.html (Templates), SimpleCSS (Styling), PostgreSQL (DB), Docker (Deployment)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-01-25T14:11:08Z",
+            "owner": "Rattlyy",
+            "repo": "htmx-ktor",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "todo-hda-kt",
+          "description": "TodoApp as a Hypermedia Driven App with parallel browser tests",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2023-06-21T14:13:50Z",
+            "owner": "corlaez",
+            "repo": "todo-hda-kt",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Kotlin"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-htmx example app",
+          "description": "Example Django app showing a few patterns.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-05T23:41:01Z",
+            "owner": "adamchainz",
+            "repo": "django-htmx",
+            "stars": 2003
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-python-htmx",
+          "description": "Awesome list for htmx specific to the Python ecosystem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-20T13:46:07Z",
+            "owner": "PyHAT-stack",
+            "repo": "awesome-python-htmx",
+            "stars": 1333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fast-htmx",
+          "description": "Fast-HTMX is a demo project of FastAPI an HTMX. The purpose of this project is to illustrate how to create a website with no JavaScript, using only HTML, CSS, and Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-01-15T16:41:39Z",
+            "owner": "marty331",
+            "repo": "fasthtmx",
+            "stars": 274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-htmx-alpine",
+          "description": "Basic todo list with Django, HTMX, and Alpine. Features a live demonstration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2022-03-28T12:00:14Z",
+            "owner": "arcanemachine",
+            "repo": "django-htmx-alpine",
+            "stars": 197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-htmx-fun",
+          "description": "A small Django application to advertise the fun htmx can bring you.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-22T08:17:13Z",
+            "owner": "guettli",
+            "repo": "django-htmx-fun",
+            "stars": 193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Modal forms with Django+HTMX",
+          "description": "A sample project to demonstrates how to show a Django Form in a modal dialog box using HTMX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-08T10:39:06Z",
+            "owner": "bblanchon",
+            "repo": "django-htmx-modal-form",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fastapi-htmx-tailwind-example",
+          "description": "Async , , , , and example; featuring for example active search, server-sent events, server-side HTMX triggers, lazy loading, and dynamic dialogs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-23T14:46:14Z",
+            "owner": "volfpeter",
+            "repo": "fastapi-htmx-tailwind-example",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "htmxflask",
+          "description": "All the HTMX samples redone using a flask server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-01T17:40:26Z",
+            "owner": "cscortes",
+            "repo": "htmxflask",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flask-htmx-tailwind",
+          "description": "Rapid Prototyping with Flask, htmx, and Tailwind CSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-01-31T01:19:01Z",
+            "owner": "testdrivenio",
+            "repo": "flask-htmx-tailwind",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-htmx-todo-list",
+          "description": "Expands on django-htmx-todo to add task creation, editing, and deletion using FBVs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-22T20:26:11Z",
+            "owner": "jacklinke",
+            "repo": "django-htmx-todo-list",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-tailwind-alpine-htmx",
+          "description": "A simple Task app built with Django, Tailwind CSS, Alpine.js and HTMX",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-06-15T04:18:43Z",
+            "owner": "AccordBox",
+            "repo": "django-tailwind-alpine-htmx",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "htmx and SSE with FastAPI",
+          "description": "FastAPI based web app sending Server Sent Events to frontend app created with htmx.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-06-05T22:40:23Z",
+            "owner": "vlcinsky",
+            "repo": "fastapi-sse-htmx",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flask-htmx-boilerplate",
+          "description": "Boilerplate template for a Python Flask application with HTMX and Tailwind CSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2021-10-18T09:25:12Z",
+            "owner": "marcusschiesser",
+            "repo": "flask-htmx-boilerplate",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "owela-club",
+          "description": "Play the Namibian game of Owela against a terrible AI. Built using Django and htmx.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-31T08:32:47Z",
+            "owner": "adamchainz",
+            "repo": "owela-club",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Django HTMLX Material Kit",
+          "description": "Simple starter powered by , and",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2022-05-04T05:27:07Z",
+            "owner": "app-generator",
+            "repo": "sample-django-htmlx-mkit",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flask HTMLX Material Kit",
+          "description": "Simple starter powered by , and",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2022-05-04T05:23:04Z",
+            "owner": "app-generator",
+            "repo": "sample-flask-htmlx-mkit",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-htmx-todo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-11-14T22:25:49Z",
+            "owner": "jaredlockhart",
+            "repo": "django-htmx-todo",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flask-Sock HTMX",
+          "description": "Very short example combining HTMX with Flask-Sock for self-updating webpages with minimal dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-04-18T10:29:13Z",
+            "owner": "paluigi",
+            "repo": "flask-htmx",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lexicon App",
+          "description": "Lexicon app using django3.2, htmx, hyperscript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-20T22:48:37Z",
+            "owner": "jgirardet",
+            "repo": "djlexique",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dj_pug_htmx_example",
+          "description": "HTMX, Pug, and Django experiments",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-01-10T23:09:13Z",
+            "owner": "katsko",
+            "repo": "dj_pug_htmx_example",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Python-based (Django, FastAPI, Flask)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sinatara-htmx",
+          "description": "Example of a Sinatra app using HTMX for implementing an interactive search",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2020-08-14T03:54:49Z",
+            "owner": "johnthethird",
+            "repo": "sinatra-htmx",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "htmx-todo-app",
+          "description": "A little to-do app and a short demo of htmx built with Sinatra.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2020-06-07T04:05:35Z",
+            "owner": "libsyz",
+            "repo": "htmx-to-do-app",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pokebutt-htmx",
+          "description": "Pokebutt clone using htmx.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-03-16T05:38:20Z",
+            "owner": "beechnut",
+            "repo": "pokebutt-htmx",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Ruby"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "codeigniter-htmx-demo",
+          "description": "A CodeIgniter 4 examples include inline and modal edits, events, searching, pagination, and sorting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-07-31T15:48:14Z",
+            "owner": "michalsn",
+            "repo": "codeigniter-htmx-demo",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "laravel-htmx-crud",
+          "description": "Laravel contacts CRUD app, made reactive with HTMX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-12-18T06:27:18Z",
+            "owner": "hmshafeeq",
+            "repo": "laravel-htmx-crud",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "laravel-htmx-todolist",
+          "description": "Laravel Todo List app demo for laravel-htmx",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-08-29T04:55:58Z",
+            "owner": "gabrielrbarbosa",
+            "repo": "laravel-htmx-todolist",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "PHP"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "zig-htmx",
+          "description": "Example chat app written in zig + htmx (websockets).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Zig",
+            "last_commit": "2026-04-05T15:46:17Z",
+            "owner": "hendriknielaender",
+            "repo": "zig-htmx",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zig-htmx-tailwind-example",
+          "description": "CRUD app written in Zig + HTMX + Tailwind CSS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Zig",
+            "last_commit": "2026-05-12T00:06:06Z",
+            "owner": "dgv",
+            "repo": "zig-htmx-tailwind-example",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Zig"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "htmx-ai",
+          "description": "Use ChatGPT Code Generation as a Backend for HTMX",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-02-07T14:39:40Z",
+            "owner": "bufferhead-code",
+            "repo": "htmx-ai",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quarkus-htmx-todos",
+          "description": "Todo App in Quarkus with htmx.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-04T12:52:51Z",
+            "owner": "derkoe",
+            "repo": "quarkus-htmx-todos",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "declswiplweb",
+          "description": "End to end declarative web programming with no JS using htmx and SWI-Prolog.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Prolog",
+            "last_commit": "2020-08-28T14:51:43Z",
+            "owner": "Anniepoo",
+            "repo": "declswiplweb",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "htmx-modal-example",
+          "description": "An experiment to work design modal dialogs in HTMX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2020-10-02T02:51:03Z",
+            "owner": "benpate",
+            "repo": "htmx-modal-example",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Other"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T06:57:12.859Z",
+    "original_repository": "rajasegar/awesome-htmx",
+    "original_repository_sha": "5cafd83360ffd1b9a8e2a3ac94869d02cea4e0b7",
+    "enhanced_repository": "enhansome/enhansome-htmx",
+    "enhanced_repository_description": null,
+    "title": "Awesome Htmx with stars"
+  }
+}
