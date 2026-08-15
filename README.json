@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T03:32:18Z",
+            "last_commit": "2026-08-15T05:29:43Z",
             "owner": "openrundev",
             "repo": "openrun",
             "stars": 933
@@ -595,7 +595,7 @@
             "last_commit": "2026-08-14T00:36:35Z",
             "owner": "mikestefanello",
             "repo": "pagoda",
-            "stars": 2953
+            "stars": 2952
           }
         },
         {
@@ -623,7 +623,7 @@
             "last_commit": "2026-04-07T18:46:46Z",
             "owner": "donseba",
             "repo": "go-htmx",
-            "stars": 592
+            "stars": 594
           }
         },
         {
@@ -1289,7 +1289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T06:54:08.607Z",
+    "last_updated": "2026-08-15T05:52:06.710Z",
     "original_repository": "rajasegar/awesome-htmx",
     "original_repository_sha": "5cafd83360ffd1b9a8e2a3ac94869d02cea4e0b7",
     "enhanced_repository": "enhansome/enhansome-htmx",
