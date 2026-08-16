@@ -42,7 +42,7 @@
             "last_commit": "2026-08-15T05:29:43Z",
             "owner": "openrundev",
             "repo": "openrun",
-            "stars": 933
+            "stars": 934
           }
         },
         {
@@ -1289,7 +1289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T05:52:06.710Z",
+    "last_updated": "2026-08-16T05:54:31.026Z",
     "original_repository": "rajasegar/awesome-htmx",
     "original_repository_sha": "5cafd83360ffd1b9a8e2a3ac94869d02cea4e0b7",
     "enhanced_repository": "enhansome/enhansome-htmx",
