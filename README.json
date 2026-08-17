@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T20:41:52Z",
+            "last_commit": "2026-08-16T21:15:35Z",
             "owner": "adamchainz",
             "repo": "django-htmx",
             "stars": 2003
@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T05:29:43Z",
+            "last_commit": "2026-08-17T04:19:34Z",
             "owner": "openrundev",
             "repo": "openrun",
             "stars": 934
@@ -263,7 +263,7 @@
           "repo_info": {
             "archived": false,
             "language": "CSS",
-            "last_commit": "2026-08-10T04:13:01Z",
+            "last_commit": "2026-08-17T04:11:15Z",
             "owner": "ZEISS",
             "repo": "fiber-htmx",
             "stars": 6
@@ -277,7 +277,7 @@
           "repo_info": {
             "archived": false,
             "language": "CSS",
-            "last_commit": "2026-08-14T04:09:05Z",
+            "last_commit": "2026-08-17T04:12:38Z",
             "owner": "katallaxie",
             "repo": "htmx",
             "stars": 3
@@ -595,7 +595,7 @@
             "last_commit": "2026-08-14T00:36:35Z",
             "owner": "mikestefanello",
             "repo": "pagoda",
-            "stars": 2952
+            "stars": 2953
           }
         },
         {
@@ -820,7 +820,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T20:41:52Z",
+            "last_commit": "2026-08-16T21:15:35Z",
             "owner": "adamchainz",
             "repo": "django-htmx",
             "stars": 2003
@@ -1250,7 +1250,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-04T12:52:51Z",
+            "last_commit": "2026-08-16T08:03:59Z",
             "owner": "derkoe",
             "repo": "quarkus-htmx-todos",
             "stars": 50
@@ -1289,7 +1289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T05:54:31.026Z",
+    "last_updated": "2026-08-17T06:00:40.900Z",
     "original_repository": "rajasegar/awesome-htmx",
     "original_repository_sha": "5cafd83360ffd1b9a8e2a3ac94869d02cea4e0b7",
     "enhanced_repository": "enhansome/enhansome-htmx",
