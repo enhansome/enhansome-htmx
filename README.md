@@ -76,7 +76,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ## Tools
 
-* [django-htmx](https://github.com/adamchainz/django-htmx) ⭐ 2,004 | 🐛 10 | 🌐 JavaScript | 📅 2026-08-18 - Django integration.
+* [django-htmx](https://github.com/adamchainz/django-htmx) ⭐ 2,005 | 🐛 10 | 🌐 JavaScript | 📅 2026-08-19 - Django integration.
 * [DelphiMVCFramework](https://github.com/danieleteti/delphimvcframework) ⭐ 1,396 | 🐛 20 | 🌐 Pascal | 📅 2026-08-11 - DelphiMVCFramework integration support for htmx (class helper in MVCFramework.HTMX)
 * [Clace](https://github.com/claceio/clace) ⭐ 935 | 🐛 1 | 🌐 Go | 📅 2026-08-19 - Hypermedia based internal tools for teams. Application server for containerized apps.
 * [ludic](https://github.com/paveldedik/ludic) ⭐ 891 | 🐛 19 | 🌐 Python | 📅 2026-07-20 - Lightweight framework for building dynamic HTML pages in pure Python with HTMX.
@@ -216,7 +216,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ### Python-based (Django, FastAPI, Flask)
 
-* [django-htmx example app](https://github.com/adamchainz/django-htmx/tree/main/example) ⭐ 2,004 | 🐛 10 | 🌐 JavaScript | 📅 2026-08-18 - Example Django app showing a few patterns.
+* [django-htmx example app](https://github.com/adamchainz/django-htmx/tree/main/example) ⭐ 2,005 | 🐛 10 | 🌐 JavaScript | 📅 2026-08-19 - Example Django app showing a few patterns.
 * [awesome-python-htmx](https://github.com/PyHAT-stack/awesome-python-htmx) ⭐ 1,332 | 🐛 14 | 📅 2024-08-20 - Awesome list for htmx specific to the Python ecosystem.
 * [fast-htmx](https://github.com/marty331/fasthtmx) ⭐ 273 | 🐛 2 | 🌐 CSS | 📅 2024-01-15 - Fast-HTMX is a demo project of FastAPI an HTMX. The purpose of this project is to illustrate how to create a website with no JavaScript, using only HTML, CSS, and Python.
 * [django-htmx-alpine](https://github.com/arcanemachine/django-htmx-alpine/) ⭐ 197 | 🐛 0 | 🌐 CSS | 📅 2022-03-28 - Basic todo list with Django, HTMX, and Alpine. Features a [live demonstration](https://django-htmx-alpine.nicholasmoen.com/).
