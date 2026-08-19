@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T21:15:35Z",
+            "last_commit": "2026-08-18T20:33:07Z",
             "owner": "adamchainz",
             "repo": "django-htmx",
-            "stars": 2003
+            "stars": 2004
           }
         },
         {
@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T04:19:34Z",
+            "last_commit": "2026-08-19T04:35:50Z",
             "owner": "openrundev",
             "repo": "openrun",
             "stars": 935
@@ -820,10 +820,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T21:15:35Z",
+            "last_commit": "2026-08-18T20:33:07Z",
             "owner": "adamchainz",
             "repo": "django-htmx",
-            "stars": 2003
+            "stars": 2004
           }
         },
         {
@@ -1289,7 +1289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T05:55:47.569Z",
+    "last_updated": "2026-08-19T05:56:44.097Z",
     "original_repository": "rajasegar/awesome-htmx",
     "original_repository_sha": "5cafd83360ffd1b9a8e2a3ac94869d02cea4e0b7",
     "enhanced_repository": "enhansome/enhansome-htmx",
