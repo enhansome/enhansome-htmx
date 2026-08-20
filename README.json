@@ -12,10 +12,10 @@
             "archived": false,
             "id": 305154838,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T12:19:19Z",
+            "last_commit": "2026-08-19T16:45:04Z",
             "owner": "adamchainz",
             "repo": "django-htmx",
-            "stars": 2005
+            "stars": 2006
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 627567877,
             "language": "Go",
-            "last_commit": "2026-08-19T04:35:50Z",
+            "last_commit": "2026-08-20T04:31:22Z",
             "owner": "openrundev",
             "repo": "openrun",
-            "stars": 935
+            "stars": 936
           }
         },
         {
@@ -636,7 +636,7 @@
                 "last_commit": "2026-08-14T00:36:35Z",
                 "owner": "mikestefanello",
                 "repo": "pagoda",
-                "stars": 2952
+                "stars": 2953
               }
             },
             {
@@ -879,10 +879,10 @@
                 "archived": false,
                 "id": 305154838,
                 "language": "JavaScript",
-                "last_commit": "2026-08-19T12:19:19Z",
+                "last_commit": "2026-08-19T16:45:04Z",
                 "owner": "adamchainz",
                 "repo": "django-htmx",
-                "stars": 2005
+                "stars": 2006
               }
             },
             {
@@ -897,7 +897,7 @@
                 "last_commit": "2024-08-20T13:46:07Z",
                 "owner": "PyHAT-stack",
                 "repo": "awesome-python-htmx",
-                "stars": 1332
+                "stars": 1334
               }
             },
             {
@@ -912,7 +912,7 @@
                 "last_commit": "2024-01-15T16:41:39Z",
                 "owner": "marty331",
                 "repo": "fasthtmx",
-                "stars": 273
+                "stars": 274
               }
             },
             {
@@ -1047,7 +1047,7 @@
                 "last_commit": "2021-06-05T22:40:23Z",
                 "owner": "vlcinsky",
                 "repo": "fastapi-sse-htmx",
-                "stars": 43
+                "stars": 44
               }
             },
             {
@@ -1342,7 +1342,7 @@
                 "archived": false,
                 "id": 336095791,
                 "language": "Java",
-                "last_commit": "2026-08-16T08:03:59Z",
+                "last_commit": "2026-08-19T14:07:11Z",
                 "owner": "derkoe",
                 "repo": "quarkus-htmx-todos",
                 "stars": 50
@@ -1388,7 +1388,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:33:47.610Z",
+    "last_updated": "2026-08-20T05:57:36.904Z",
     "original_repository": "rajasegar/awesome-htmx",
     "original_repository_id": 345000191,
     "original_repository_sha": "5cafd83360ffd1b9a8e2a3ac94869d02cea4e0b7",
