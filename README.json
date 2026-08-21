@@ -42,10 +42,10 @@
             "archived": false,
             "id": 627567877,
             "language": "Go",
-            "last_commit": "2026-08-20T04:31:22Z",
+            "last_commit": "2026-08-21T05:24:19Z",
             "owner": "openrundev",
             "repo": "openrun",
-            "stars": 936
+            "stars": 937
           }
         },
         {
@@ -282,7 +282,7 @@
             "archived": false,
             "id": 963482675,
             "language": "CSS",
-            "last_commit": "2026-08-18T04:09:16Z",
+            "last_commit": "2026-08-21T04:11:09Z",
             "owner": "ZEISS",
             "repo": "fiber-htmx",
             "stars": 6
@@ -297,7 +297,7 @@
             "archived": false,
             "id": 981653813,
             "language": "CSS",
-            "last_commit": "2026-08-18T04:08:36Z",
+            "last_commit": "2026-08-21T04:08:51Z",
             "owner": "katallaxie",
             "repo": "htmx",
             "stars": 3
@@ -636,7 +636,7 @@
                 "last_commit": "2026-08-14T00:36:35Z",
                 "owner": "mikestefanello",
                 "repo": "pagoda",
-                "stars": 2953
+                "stars": 2950
               }
             },
             {
@@ -1388,7 +1388,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T05:57:36.904Z",
+    "last_updated": "2026-08-21T05:58:29.295Z",
     "original_repository": "rajasegar/awesome-htmx",
     "original_repository_id": 345000191,
     "original_repository_sha": "5cafd83360ffd1b9a8e2a3ac94869d02cea4e0b7",
