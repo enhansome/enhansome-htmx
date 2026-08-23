@@ -42,7 +42,7 @@
             "archived": false,
             "id": 627567877,
             "language": "Go",
-            "last_commit": "2026-08-22T04:51:38Z",
+            "last_commit": "2026-08-23T04:16:13Z",
             "owner": "openrundev",
             "repo": "openrun",
             "stars": 940
@@ -1388,7 +1388,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T05:54:09.353Z",
+    "last_updated": "2026-08-23T05:55:09.096Z",
     "original_repository": "rajasegar/awesome-htmx",
     "original_repository_id": 345000191,
     "original_repository_sha": "5cafd83360ffd1b9a8e2a3ac94869d02cea4e0b7",
