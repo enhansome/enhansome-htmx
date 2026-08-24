@@ -15,8 +15,8 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ## Official
 
+* [GitHub](https://github.com/bigskysoftware/htmx) ⭐ 49,013 | 🐛 678 | 🌐 JavaScript | 📅 2026-08-24
 * [Website](https://htmx.org)
-* [GitHub](https://github.com/bigskysoftware/htmx) ⭐ 49,007 | 🐛 677 | 🌐 JavaScript | 📅 2026-08-23
 * [Twitter](https://twitter.com/htmx_org?lang=en)
 * [Discord Server](https://htmx.org/discord)
 * [Examples](https://htmx.org/examples/)
@@ -24,6 +24,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ## BlogPosts
 
+* [json2html](https://github.com/moappi/json2html) ⭐ 644 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-14
 * [How to create ChatGPT with Django and HTMX in 4 minutes 🦾](https://www.photondesigner.com/articles/chatgpt-htmx-django)
 * [Add instant database search with Django and HTMX 🕵️](https://www.photondesigner.com/articles/database-search-django-htmx)
 * [How to add serverless functions to Django in 6 minutes (with HTMX and AWS Lambda) 🧠](https://www.photondesigner.com/articles/serverless-functions-django)
@@ -53,7 +54,6 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 * [Using Server-Sent Events with Thymeleaf and HTMX](https://www.wimdeblauwe.com/blog/2021/11/23/using-server-sent-events-with-thymeleaf-and-htmx/)
 * [Thymeleaf and htmx with out of band swaps](https://www.wimdeblauwe.com/blog/2022/06/15/thymeleaf-and-htmx-with-out-of-band-swaps/)
 * [Htmx authentication error handling](https://www.wimdeblauwe.com/blog/2022/10/04/htmx-authentication-error-handling/)
-* [json2html](https://github.com/moappi/json2html) ⭐ 644 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-14
 * [Full stack web development in a single Java file: An intro to Javalin and htmx](https://anthonybruno.dev/2023/06/11/full-stack-development-in-a-single-java-file)
 * [Hono + htmx + Cloudflare is a new stack](https://blog.yusu.ke/hono-htmx-cloudflare/)
 * [Getting Started With HTMX In Laravel](https://muhammadshafeeq.com/posts/getting-started-with-htmx-in-laravel---an-overview/)

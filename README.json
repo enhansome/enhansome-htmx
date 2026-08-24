@@ -5,6 +5,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 255378816,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T11:52:14Z",
+            "owner": "bigskysoftware",
+            "repo": "htmx",
+            "stars": 49013
+          }
+        }
+      ],
+      "title": "Official"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "json2html",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3067224,
+            "language": "JavaScript",
+            "last_commit": "2026-08-14T19:31:29Z",
+            "owner": "moappi",
+            "repo": "json2html",
+            "stars": 644
+          }
+        }
+      ],
+      "title": "BlogPosts"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "django-htmx",
           "description": "Django integration.",
           "children": [],
@@ -454,6 +496,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "TodoMVC App",
+              "description": "TodoMVC App built with , , , and deployed on vercel/netlify.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 692604297,
+                "language": "TypeScript",
+                "last_commit": "2023-10-16T14:48:57Z",
+                "owner": "syarul",
+                "repo": "htmx-todomvc",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Typescript"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TodoMVC App",
+              "description": "TodoMVC App built with , and following the standard AdonisJS guidelines for server framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 837951036,
+                "language": "TypeScript",
+                "last_commit": "2024-08-12T13:08:50Z",
+                "owner": "syarul",
+                "repo": "todomvc-adonisjs-react-htmx-_hyperscript",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AdonisJS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "todomvc-htmx",
               "description": "TodoMVC app implemented using htmx and hyperscript.",
               "children": [],
@@ -621,6 +707,28 @@
           "description": null,
           "node_type": "group",
           "title": "Express"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TodoMVC App",
+              "description": "TodoMVC App built with , , , and . Astra runs a small event I/O loop and maud is blazing fast, super type-safe, and easy to deploy.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 737522134,
+                "language": "Rust",
+                "last_commit": "2024-01-11T15:04:09Z",
+                "owner": "syarul",
+                "repo": "todomvc-rust-astra-maud-htmx-_hyperscript",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Rust"
         },
         {
           "children": [
@@ -1283,6 +1391,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "dmvcframework-todo-app",
+              "description": "DelphiMVCFramework to-do app with HTMX and TemplatePro templates",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 704589783,
+                "language": "Pascal",
+                "last_commit": "2026-07-03T13:14:22Z",
+                "owner": "danieleteti",
+                "repo": "delphi-dmvcframework-htmx-todo",
+                "stars": 21
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Delphi"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "zig-htmx",
               "description": "Example chat app written in zig + htmx (websockets).",
               "children": [],
@@ -1315,6 +1445,72 @@
           "description": null,
           "node_type": "group",
           "title": "Zig"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TodoMVC App",
+              "description": "TodoMVC App built with , , and . Lua is fast and lightweight where virtually map very close to C.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 754666852,
+                "language": "Lua",
+                "last_commit": "2024-10-13T05:33:51Z",
+                "owner": "syarul",
+                "repo": "todomvc-lua-luasocket-htmx-_hyperscript",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Lua"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "podex",
+              "description": "Podex - a framework for building full-stack web applications using PowerShell/Pode for the backend and htmx for the frontend.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 865761609,
+                "language": "PowerShell",
+                "last_commit": "2026-08-14T18:34:32Z",
+                "owner": "NomadicDaddy",
+                "repo": "podex",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "PowerShell"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "demo-htmx-manifest",
+              "description": "Newsletter signup app with Manifest + HTMX.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 876647400,
+                "language": "HTML",
+                "last_commit": "2024-10-22T11:44:13Z",
+                "owner": "brunobuddy",
+                "repo": "demo-htmx-manifest",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "YAML"
         },
         {
           "children": [
@@ -1388,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T06:04:09.552Z",
+    "last_updated": "2026-08-24T14:04:19.370Z",
     "original_repository": "rajasegar/awesome-htmx",
     "original_repository_id": 345000191,
     "original_repository_sha": "5cafd83360ffd1b9a8e2a3ac94869d02cea4e0b7",
