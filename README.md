@@ -15,7 +15,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ## Official
 
-* [GitHub](https://github.com/bigskysoftware/htmx) ⭐ 49,013 | 🐛 678 | 🌐 JavaScript | 📅 2026-08-24
+* [GitHub](https://github.com/bigskysoftware/htmx) ⭐ 49,018 | 🐛 679 | 🌐 JavaScript | 📅 2026-08-25
 * [Website](https://htmx.org)
 * [Twitter](https://twitter.com/htmx_org?lang=en)
 * [Discord Server](https://htmx.org/discord)
@@ -77,8 +77,8 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 ## Tools
 
 * [django-htmx](https://github.com/adamchainz/django-htmx) ⭐ 2,006 | 🐛 10 | 🌐 JavaScript | 📅 2026-08-23 - Django integration.
-* [DelphiMVCFramework](https://github.com/danieleteti/delphimvcframework) ⭐ 1,396 | 🐛 17 | 🌐 Pascal | 📅 2026-08-23 - DelphiMVCFramework integration support for htmx (class helper in MVCFramework.HTMX)
-* [Clace](https://github.com/claceio/clace) ⭐ 941 | 🐛 1 | 🌐 Go | 📅 2026-08-23 - Hypermedia based internal tools for teams. Application server for containerized apps.
+* [DelphiMVCFramework](https://github.com/danieleteti/delphimvcframework) ⭐ 1,397 | 🐛 17 | 🌐 Pascal | 📅 2026-08-23 - DelphiMVCFramework integration support for htmx (class helper in MVCFramework.HTMX)
+* [Clace](https://github.com/claceio/clace) ⭐ 942 | 🐛 1 | 🌐 Go | 📅 2026-08-23 - Hypermedia based internal tools for teams. Application server for containerized apps.
 * [ludic](https://github.com/paveldedik/ludic) ⭐ 891 | 🐛 19 | 🌐 Python | 📅 2026-07-20 - Lightweight framework for building dynamic HTML pages in pure Python with HTMX.
 * [htmx-go](https://github.com/angelofallars/htmx-go) ⭐ 808 | 🐛 2 | 🌐 Go | 📅 2024-11-30 - Go integration compatible with `net/http`, prioritizing type safety.
 * [htmx-lsp](https://github.com/ThePrimeagen/htmx-lsp) ⭐ 708 | 🐛 8 | 🌐 Rust | 📅 2025-10-18 - Language Server Protocol for Neovim to supercharge HTMX development
@@ -143,8 +143,8 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ### ASP.net
 
-* [aspnet-core-htmx-example](https://github.com/mryderie/aspnet-core-htmx-example) ⭐ 103 | 🐛 0 | 🌐 C# | 📅 2024-11-11 - Demonstrates the use of htmx with ASP.NET Core Razor Pages to create a simple CRUD web application.
-* [htmx-with-aspnet-core](https://github.com/jerriepelser-blog/htmx-with-aspnet-core) ⭐ 38 | 🐛 0 | 🌐 HTML | 📅 2021-05-30 - Htmx with asp.net core.
+* [aspnet-core-htmx-example](https://github.com/mryderie/aspnet-core-htmx-example) ⭐ 102 | 🐛 0 | 🌐 C# | 📅 2024-11-11 - Demonstrates the use of htmx with ASP.NET Core Razor Pages to create a simple CRUD web application.
+* [htmx-with-aspnet-core](https://github.com/jerriepelser-blog/htmx-with-aspnet-core) ⭐ 37 | 🐛 0 | 🌐 HTML | 📅 2021-05-30 - Htmx with asp.net core.
 
 ### Clojure
 
@@ -293,4 +293,4 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
