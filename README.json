@@ -12,10 +12,10 @@
             "archived": false,
             "id": 255378816,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T02:23:49Z",
+            "last_commit": "2026-08-25T19:10:33Z",
             "owner": "bigskysoftware",
             "repo": "htmx",
-            "stars": 49018
+            "stars": 49020
           }
         }
       ],
@@ -57,7 +57,7 @@
             "last_commit": "2026-08-23T22:08:55Z",
             "owner": "adamchainz",
             "repo": "django-htmx",
-            "stars": 2006
+            "stars": 2004
           }
         },
         {
@@ -72,7 +72,7 @@
             "last_commit": "2026-08-23T17:00:54Z",
             "owner": "danieleteti",
             "repo": "delphimvcframework",
-            "stars": 1397
+            "stars": 1398
           }
         },
         {
@@ -84,7 +84,7 @@
             "archived": false,
             "id": 627567877,
             "language": "Go",
-            "last_commit": "2026-08-23T04:16:13Z",
+            "last_commit": "2026-08-26T04:48:17Z",
             "owner": "openrundev",
             "repo": "openrun",
             "stars": 942
@@ -177,7 +177,7 @@
             "last_commit": "2026-03-19T19:17:51Z",
             "owner": "mauricius",
             "repo": "laravel-htmx",
-            "stars": 365
+            "stars": 364
           }
         },
         {
@@ -990,7 +990,7 @@
                 "last_commit": "2026-08-23T22:08:55Z",
                 "owner": "adamchainz",
                 "repo": "django-htmx",
-                "stars": 2006
+                "stars": 2004
               }
             },
             {
@@ -1538,7 +1538,7 @@
                 "archived": false,
                 "id": 336095791,
                 "language": "Java",
-                "last_commit": "2026-08-21T23:27:29Z",
+                "last_commit": "2026-08-25T17:46:50Z",
                 "owner": "derkoe",
                 "repo": "quarkus-htmx-todos",
                 "stars": 50
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:21:42.914Z",
+    "last_updated": "2026-08-26T06:00:11.202Z",
     "original_repository": "rajasegar/awesome-htmx",
     "original_repository_id": 345000191,
     "original_repository_sha": "5cafd83360ffd1b9a8e2a3ac94869d02cea4e0b7",
