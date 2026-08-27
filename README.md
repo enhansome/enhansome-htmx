@@ -15,7 +15,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ## Official
 
-* [GitHub](https://github.com/bigskysoftware/htmx) ⭐ 49,020 | 🐛 681 | 🌐 JavaScript | 📅 2026-08-25
+* [GitHub](https://github.com/bigskysoftware/htmx) ⭐ 49,022 | 🐛 679 | 🌐 JavaScript | 📅 2026-08-27
 * [Website](https://htmx.org)
 * [Twitter](https://twitter.com/htmx_org?lang=en)
 * [Discord Server](https://htmx.org/discord)
@@ -77,8 +77,8 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 ## Tools
 
 * [django-htmx](https://github.com/adamchainz/django-htmx) ⭐ 2,004 | 🐛 10 | 🌐 JavaScript | 📅 2026-08-23 - Django integration.
-* [DelphiMVCFramework](https://github.com/danieleteti/delphimvcframework) ⭐ 1,398 | 🐛 17 | 🌐 Pascal | 📅 2026-08-23 - DelphiMVCFramework integration support for htmx (class helper in MVCFramework.HTMX)
-* [Clace](https://github.com/claceio/clace) ⭐ 942 | 🐛 1 | 🌐 Go | 📅 2026-08-26 - Hypermedia based internal tools for teams. Application server for containerized apps.
+* [DelphiMVCFramework](https://github.com/danieleteti/delphimvcframework) ⭐ 1,400 | 🐛 17 | 🌐 Pascal | 📅 2026-08-23 - DelphiMVCFramework integration support for htmx (class helper in MVCFramework.HTMX)
+* [Clace](https://github.com/claceio/clace) ⭐ 946 | 🐛 1 | 🌐 Go | 📅 2026-08-26 - Hypermedia based internal tools for teams. Application server for containerized apps.
 * [ludic](https://github.com/paveldedik/ludic) ⭐ 891 | 🐛 19 | 🌐 Python | 📅 2026-07-20 - Lightweight framework for building dynamic HTML pages in pure Python with HTMX.
 * [htmx-go](https://github.com/angelofallars/htmx-go) ⭐ 808 | 🐛 2 | 🌐 Go | 📅 2024-11-30 - Go integration compatible with `net/http`, prioritizing type safety.
 * [htmx-lsp](https://github.com/ThePrimeagen/htmx-lsp) ⭐ 708 | 🐛 8 | 🌐 Rust | 📅 2025-10-18 - Language Server Protocol for Neovim to supercharge HTMX development
@@ -193,7 +193,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 ### Go
 
 * [pagoda](https://github.com/mikestefanello/pagoda) ⭐ 2,951 | 🐛 1 | 🌐 Go | 📅 2026-08-14 - Rapid, easy full-stack web development starter kit in Go with HTMX support and examples.
-* [Pushup](https://github.com/adhocteam/pushup) ⭐ 855 | 🐛 48 | 🌐 Go | 📅 2026-07-02 - A server-side, page-oriented web framework for the Go programming language.
+* [Pushup](https://github.com/adhocteam/pushup) ⭐ 854 | 🐛 48 | 🌐 Go | 📅 2026-07-02 - A server-side, page-oriented web framework for the Go programming language.
 * [GO HTMX](https://github.com/donseba/go-htmx) ⭐ 594 | 🐛 1 | 🌐 Go | 📅 2026-04-07 - Seamless HTMX Integration for Go Applications.
 * [Simple Counter App](https://github.com/chasefleming/elem-go/tree/main/examples/htmx-fiber-counter) ⭐ 364 | 🐛 5 | 🌐 Go | 📅 2026-07-20 - A simple counter app built with `htmx`, `elem-go`, and `Go Fiber`.
 * [Todo App](https://github.com/chasefleming/elem-go/tree/main/examples/htmx-fiber-todo) ⭐ 364 | 🐛 5 | 🌐 Go | 📅 2026-07-20 - A todo app built with `htmx`, `elem-go`, and `Go Fiber`.
@@ -204,7 +204,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 ### Java
 
 * [Spring-Boot HTMX](https://github.com/wiverson/htmx-demo) ⭐ 328 | 🐛 2 | 🌐 Java | 📅 2025-02-02
-* [Frisson: Easy, Powerful Full Stack with Spring Boot and HTMX](https://github.com/ChangeNode/frisson) ⭐ 207 | 🐛 5 | 🌐 HTML | 📅 2023-04-04
+* [Frisson: Easy, Powerful Full Stack with Spring Boot and HTMX](https://github.com/ChangeNode/frisson) ⭐ 208 | 🐛 5 | 🌐 HTML | 📅 2023-04-04
 * [Spring Boot HTMX integration](https://github.com/odrotbohm/spring-playground/tree/main/htmx-spring-boot) ⭐ 102 | 🐛 2 | 🌐 Java | 📅 2026-03-11
 * [TodoWebflux Spring Boot HTMX demo](https://github.com/dsyer/todowebflux) ⭐ 23 | 🐛 4 | 🌐 Java | 📅 2024-07-10
 * [java-htmx-todo](https://github.com/AussieGuy0/java-htmx-todo) ⭐ 11 | 🐛 0 | 🌐 Java | 📅 2023-08-21 - Todo app using Javalin, htmx and j2html.
@@ -273,7 +273,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 ### Other
 
 * [htmx-ai](https://github.com/bufferhead-code/htmx-ai) ⭐ 77 | 🐛 1 | 🌐 HTML | 📅 2024-02-07 - Use ChatGPT Code Generation as a Backend for HTMX
-* [quarkus-htmx-todos](https://github.com/derkoe/quarkus-htmx-todos) ⭐ 50 | 🐛 3 | 🌐 Java | 📅 2026-08-25 - Todo App in Quarkus with htmx.
+* [quarkus-htmx-todos](https://github.com/derkoe/quarkus-htmx-todos) ⭐ 50 | 🐛 3 | 🌐 Java | 📅 2026-08-26 - Todo App in Quarkus with htmx.
 * [declswiplweb](https://github.com/Anniepoo/declswiplweb) ⭐ 13 | 🐛 0 | 🌐 Prolog | 📅 2020-08-28 - End to end declarative web programming with no JS using htmx and SWI-Prolog.
 * [htmx-modal-example](https://github.com/benpate/htmx-modal-example) ⭐ 6 | 🐛 0 | 🌐 HTML | 📅 2020-10-02 - An experiment to work design modal dialogs in HTMX.
 
@@ -293,4 +293,4 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
