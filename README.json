@@ -12,7 +12,7 @@
             "archived": false,
             "id": 255378816,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T01:48:42Z",
+            "last_commit": "2026-08-27T13:39:09Z",
             "owner": "bigskysoftware",
             "repo": "htmx",
             "stars": 49022
@@ -744,7 +744,7 @@
                 "last_commit": "2026-08-14T00:36:35Z",
                 "owner": "mikestefanello",
                 "repo": "pagoda",
-                "stars": 2951
+                "stars": 2952
               }
             },
             {
@@ -774,7 +774,7 @@
                 "last_commit": "2026-04-07T18:46:46Z",
                 "owner": "donseba",
                 "repo": "go-htmx",
-                "stars": 594
+                "stars": 595
               }
             },
             {
@@ -1538,7 +1538,7 @@
                 "archived": false,
                 "id": 336095791,
                 "language": "Java",
-                "last_commit": "2026-08-26T22:06:12Z",
+                "last_commit": "2026-08-27T15:10:22Z",
                 "owner": "derkoe",
                 "repo": "quarkus-htmx-todos",
                 "stars": 50
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:44:31.675Z",
+    "last_updated": "2026-08-27T16:39:12.946Z",
     "original_repository_info": {
       "archived": false,
       "id": 345000191,
