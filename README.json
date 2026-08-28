@@ -12,11 +12,12 @@
             "archived": false,
             "id": 255378816,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T13:39:09Z",
+            "last_commit": "2026-08-28T16:19:08Z",
             "owner": "bigskysoftware",
             "repo": "htmx",
-            "stars": 49022
-          }
+            "stars": 49038
+          },
+          "first_seen": "2026-08-28T17:37:40.528Z"
         }
       ],
       "title": "Official"
@@ -37,7 +38,8 @@
             "owner": "moappi",
             "repo": "json2html",
             "stars": 644
-          }
+          },
+          "first_seen": "2026-08-28T17:37:40.528Z"
         }
       ],
       "title": "BlogPosts"
@@ -57,8 +59,9 @@
             "last_commit": "2026-08-23T22:08:55Z",
             "owner": "adamchainz",
             "repo": "django-htmx",
-            "stars": 2004
-          }
+            "stars": 2005
+          },
+          "first_seen": "2026-08-28T17:37:40.528Z"
         },
         {
           "node_type": "item",
@@ -73,7 +76,8 @@
             "owner": "danieleteti",
             "repo": "delphimvcframework",
             "stars": 1400
-          }
+          },
+          "first_seen": "2026-08-28T17:37:40.528Z"
         },
         {
           "node_type": "item",
@@ -87,8 +91,9 @@
             "last_commit": "2026-08-26T23:03:24Z",
             "owner": "openrundev",
             "repo": "openrun",
-            "stars": 946
-          }
+            "stars": 947
+          },
+          "first_seen": "2026-08-28T17:37:40.528Z"
         },
         {
           "node_type": "item",
@@ -103,7 +108,8 @@
             "owner": "getludic",
             "repo": "ludic",
             "stars": 891
-          }
+          },
+          "first_seen": "2026-08-28T17:37:40.528Z"
         },
         {
           "node_type": "item",
@@ -118,7 +124,8 @@
             "owner": "angelofallars",
             "repo": "htmx-go",
             "stars": 808
-          }
+          },
+          "first_seen": "2026-08-28T17:37:40.528Z"
         },
         {
           "node_type": "item",
@@ -133,7 +140,8 @@
             "owner": "ThePrimeagen",
             "repo": "htmx-lsp",
             "stars": 708
-          }
+          },
+          "first_seen": "2026-08-28T17:37:40.528Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "wimdeblauwe",
             "repo": "htmx-spring-boot",
             "stars": 687
-          }
+          },
+          "first_seen": "2026-08-28T17:37:40.528Z"
         },
         {
           "node_type": "item",
@@ -163,7 +172,8 @@
             "owner": "khalidabuhakmeh",
             "repo": "Htmx.Net",
             "stars": 579
-          }
+          },
+          "first_seen": "2026-08-28T17:37:40.528Z"
         },
         {
           "node_type": "item",
@@ -178,7 +188,8 @@
             "owner": "mauricius",
             "repo": "laravel-htmx",
             "stars": 364
-          }
+          },
+          "first_seen": "2026-08-28T17:37:40.528Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "chasefleming",
             "repo": "elem-go",
             "stars": 364
-          }
+          },
+          "first_seen": "2026-08-28T17:37:40.528Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "NomadicDaddy",
             "repo": "htmx-debugger",
             "stars": 145
-          }
+          },
+          "first_seen": "2026-08-28T17:37:40.528Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "rootstrap",
             "repo": "htmx-rails",
             "stars": 118
-          }
+          },
+          "first_seen": "2026-08-28T17:37:40.528Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "michalsn",
             "repo": "codeigniter-htmx",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T17:37:40.528Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "bit-badger",
             "repo": "Giraffe.Htmx",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T17:37:40.528Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "benopotamus",
             "repo": "htmx-ext-shoelace",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T17:37:40.528Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "alephao",
             "repo": "swift-http-types-htmx",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T17:37:40.528Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "zunnu",
             "repo": "cake-htmx",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T17:37:40.528Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "nonZero",
             "repo": "django-js-lib-htmx",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T17:37:40.528Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "ZEISS",
             "repo": "fiber-htmx",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T17:37:40.528Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "katallaxie",
             "repo": "htmx",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T17:37:40.528Z"
         }
       ],
       "title": "Tools"
@@ -366,7 +388,8 @@
                 "owner": "mryderie",
                 "repo": "aspnet-core-htmx-example",
                 "stars": 102
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -381,7 +404,8 @@
                 "owner": "jerriepelser-blog",
                 "repo": "htmx-with-aspnet-core",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             }
           ],
           "description": null,
@@ -403,7 +427,8 @@
                 "owner": "prestancedesign",
                 "repo": "babashka-htmx-todoapp",
                 "stars": 176
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -418,7 +443,8 @@
                 "owner": "keychera",
                 "repo": "panas.example",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -433,7 +459,8 @@
                 "owner": "rmrt1n",
                 "repo": "contact.app-clj",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             }
           ],
           "description": null,
@@ -455,7 +482,8 @@
                 "owner": "rajasegar",
                 "repo": "cl-trello-clone",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -470,7 +498,8 @@
                 "owner": "rajasegar",
                 "repo": "ccl-demo-raja",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -485,7 +514,8 @@
                 "owner": "rajasegar",
                 "repo": "cl-github-timeline",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             }
           ],
           "description": null,
@@ -507,7 +537,8 @@
                 "owner": "syarul",
                 "repo": "htmx-todomvc",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             }
           ],
           "description": null,
@@ -529,7 +560,8 @@
                 "owner": "syarul",
                 "repo": "todomvc-adonisjs-react-htmx-_hyperscript",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             }
           ],
           "description": null,
@@ -551,7 +583,8 @@
                 "owner": "rajasegar",
                 "repo": "todomvc-htmx",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -566,7 +599,8 @@
                 "owner": "rajasegar",
                 "repo": "htmx-twitter-clone",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -581,7 +615,8 @@
                 "owner": "rajasegar",
                 "repo": "htmx-calendar",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -596,7 +631,8 @@
                 "owner": "rajasegar",
                 "repo": "htmx-dropbox",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -611,7 +647,8 @@
                 "owner": "rajasegar",
                 "repo": "htmx-notes",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -626,7 +663,8 @@
                 "owner": "rajasegar",
                 "repo": "htmx-tabular",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -641,7 +679,8 @@
                 "owner": "rajasegar",
                 "repo": "super-rentals-htmx",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -656,7 +695,8 @@
                 "owner": "rajasegar",
                 "repo": "htmx-github-search",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -671,7 +711,8 @@
                 "owner": "rajasegar",
                 "repo": "htmx-geo-selector",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -686,7 +727,8 @@
                 "owner": "rajasegar",
                 "repo": "hx-swap-demo",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -701,7 +743,8 @@
                 "owner": "rajasegar",
                 "repo": "todo-htmx",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             }
           ],
           "description": null,
@@ -723,7 +766,8 @@
                 "owner": "syarul",
                 "repo": "todomvc-rust-astra-maud-htmx-_hyperscript",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             }
           ],
           "description": null,
@@ -745,7 +789,8 @@
                 "owner": "mikestefanello",
                 "repo": "pagoda",
                 "stars": 2952
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -760,7 +805,8 @@
                 "owner": "adhocteam",
                 "repo": "pushup",
                 "stars": 854
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -775,7 +821,8 @@
                 "owner": "donseba",
                 "repo": "go-htmx",
                 "stars": 595
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -790,7 +837,8 @@
                 "owner": "chasefleming",
                 "repo": "elem-go",
                 "stars": 364
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -805,7 +853,8 @@
                 "owner": "chasefleming",
                 "repo": "elem-go",
                 "stars": 364
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -820,7 +869,8 @@
                 "owner": "gobijan",
                 "repo": "go-htmx-todo",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -835,7 +885,8 @@
                 "owner": "syarul",
                 "repo": "todomvc-go-templ-htmx-_hyperscript",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -850,7 +901,8 @@
                 "owner": "michaeljsaenz",
                 "repo": "kshot",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             }
           ],
           "description": null,
@@ -872,7 +924,8 @@
                 "owner": "wiverson",
                 "repo": "htmx-demo",
                 "stars": 328
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -887,7 +940,8 @@
                 "owner": "ChangeNode",
                 "repo": "spring-boot-supabase",
                 "stars": 208
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -902,7 +956,8 @@
                 "owner": "odrotbohm",
                 "repo": "spring-playground",
                 "stars": 102
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -917,7 +972,8 @@
                 "owner": "dsyer",
                 "repo": "spring-todo-mvc",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -932,7 +988,8 @@
                 "owner": "AussieGuy0",
                 "repo": "java-htmx-todo",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             }
           ],
           "description": null,
@@ -954,7 +1011,8 @@
                 "owner": "Rattlyy",
                 "repo": "htmx-ktor",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -969,7 +1027,8 @@
                 "owner": "corlaez",
                 "repo": "todo-hda-kt",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             }
           ],
           "description": null,
@@ -990,8 +1049,9 @@
                 "last_commit": "2026-08-23T22:08:55Z",
                 "owner": "adamchainz",
                 "repo": "django-htmx",
-                "stars": 2004
-              }
+                "stars": 2005
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -1006,7 +1066,8 @@
                 "owner": "PyHAT-stack",
                 "repo": "awesome-python-htmx",
                 "stars": 1334
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -1021,7 +1082,8 @@
                 "owner": "marty331",
                 "repo": "fasthtmx",
                 "stars": 274
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -1036,7 +1098,8 @@
                 "owner": "arcanemachine",
                 "repo": "django-htmx-alpine",
                 "stars": 197
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -1051,7 +1114,8 @@
                 "owner": "guettli",
                 "repo": "django-htmx-fun",
                 "stars": 193
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -1066,7 +1130,8 @@
                 "owner": "bblanchon",
                 "repo": "django-htmx-modal-form",
                 "stars": 120
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -1081,7 +1146,8 @@
                 "owner": "volfpeter",
                 "repo": "fastapi-htmx-tailwind-example",
                 "stars": 108
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -1096,7 +1162,8 @@
                 "owner": "cscortes",
                 "repo": "htmxflask",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -1111,7 +1178,8 @@
                 "owner": "testdrivenio",
                 "repo": "flask-htmx-tailwind",
                 "stars": 87
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -1126,7 +1194,8 @@
                 "owner": "jacklinke",
                 "repo": "django-htmx-todo-list",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -1141,7 +1210,8 @@
                 "owner": "AccordBox",
                 "repo": "django-tailwind-alpine-htmx",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -1156,7 +1226,8 @@
                 "owner": "vlcinsky",
                 "repo": "fastapi-sse-htmx",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -1171,7 +1242,8 @@
                 "owner": "marcusschiesser",
                 "repo": "flask-htmx-boilerplate",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -1186,7 +1258,8 @@
                 "owner": "adamchainz",
                 "repo": "owela-club",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -1201,7 +1274,8 @@
                 "owner": "app-generator",
                 "repo": "sample-django-htmlx-mkit",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -1216,7 +1290,8 @@
                 "owner": "app-generator",
                 "repo": "sample-flask-htmlx-mkit",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -1231,7 +1306,8 @@
                 "owner": "jaredlockhart",
                 "repo": "django-htmx-todo",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -1246,7 +1322,8 @@
                 "owner": "paluigi",
                 "repo": "flask-htmx",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -1261,7 +1338,8 @@
                 "owner": "jgirardet",
                 "repo": "djlexique",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -1276,7 +1354,8 @@
                 "owner": "katsko",
                 "repo": "dj_pug_htmx_example",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             }
           ],
           "description": null,
@@ -1298,7 +1377,8 @@
                 "owner": "johnthethird",
                 "repo": "sinatra-htmx",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -1313,7 +1393,8 @@
                 "owner": "libsyz",
                 "repo": "htmx-to-do-app",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -1328,7 +1409,8 @@
                 "owner": "beechnut",
                 "repo": "pokebutt-htmx",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             }
           ],
           "description": null,
@@ -1350,7 +1432,8 @@
                 "owner": "michalsn",
                 "repo": "codeigniter-htmx-demo",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -1365,7 +1448,8 @@
                 "owner": "hmshafeeq",
                 "repo": "laravel-htmx-crud",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -1380,7 +1464,8 @@
                 "owner": "gabrielrbarbosa",
                 "repo": "laravel-htmx-todolist",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             }
           ],
           "description": null,
@@ -1402,7 +1487,8 @@
                 "owner": "danieleteti",
                 "repo": "delphi-dmvcframework-htmx-todo",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             }
           ],
           "description": null,
@@ -1424,7 +1510,8 @@
                 "owner": "hendriknielaender",
                 "repo": "zig-htmx",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -1439,7 +1526,8 @@
                 "owner": "dgv",
                 "repo": "zig-htmx-tailwind-example",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             }
           ],
           "description": null,
@@ -1461,7 +1549,8 @@
                 "owner": "syarul",
                 "repo": "todomvc-lua-luasocket-htmx-_hyperscript",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             }
           ],
           "description": null,
@@ -1483,7 +1572,8 @@
                 "owner": "NomadicDaddy",
                 "repo": "podex",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             }
           ],
           "description": null,
@@ -1505,7 +1595,8 @@
                 "owner": "brunobuddy",
                 "repo": "demo-htmx-manifest",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             }
           ],
           "description": null,
@@ -1527,7 +1618,8 @@
                 "owner": "bufferhead-code",
                 "repo": "htmx-ai",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -1538,11 +1630,12 @@
                 "archived": false,
                 "id": 336095791,
                 "language": "Java",
-                "last_commit": "2026-08-27T15:10:22Z",
+                "last_commit": "2026-08-28T16:39:14Z",
                 "owner": "derkoe",
                 "repo": "quarkus-htmx-todos",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -1557,7 +1650,8 @@
                 "owner": "Anniepoo",
                 "repo": "declswiplweb",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             },
             {
               "node_type": "item",
@@ -1572,7 +1666,8 @@
                 "owner": "benpate",
                 "repo": "htmx-modal-example",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T17:37:40.528Z"
             }
           ],
           "description": null,
@@ -1584,7 +1679,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:39:12.946Z",
+    "last_updated": "2026-08-28T17:37:40.528Z",
     "original_repository_info": {
       "archived": false,
       "id": 345000191,
