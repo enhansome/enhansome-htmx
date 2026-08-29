@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-08-29T02:59:45Z",
-            "open_issues": 677,
+            "open_issues": 679,
             "owner": "bigskysoftware",
             "repo": "htmx",
-            "stars": 49048,
+            "stars": 49060,
             "topics": [
               "hateoas",
               "html",
@@ -76,11 +76,11 @@
             "id": 305154838,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-23T22:08:55Z",
+            "last_commit": "2026-08-29T06:12:00Z",
             "open_issues": 11,
             "owner": "adamchainz",
             "repo": "django-htmx",
-            "stars": 2005,
+            "stars": 2006,
             "topics": [
               "django"
             ]
@@ -1614,11 +1614,11 @@
                 "id": 305154838,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-08-23T22:08:55Z",
+                "last_commit": "2026-08-29T06:12:00Z",
                 "open_issues": 11,
                 "owner": "adamchainz",
                 "repo": "django-htmx",
-                "stars": 2005,
+                "stars": 2006,
                 "topics": [
                   "django"
                 ]
@@ -2512,7 +2512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:23:24.275Z",
+    "last_updated": "2026-08-29T11:45:27.991Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about htmx",
@@ -2524,7 +2524,7 @@
       "open_issues": 8,
       "owner": "rajasegar",
       "repo": "awesome-htmx",
-      "stars": 2309,
+      "stars": 2310,
       "topics": [
         "awesome",
         "awesome-list",
