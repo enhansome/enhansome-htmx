@@ -15,11 +15,11 @@
             "id": 255378816,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-30T23:22:00Z",
-            "open_issues": 686,
+            "last_commit": "2026-09-01T15:49:47Z",
+            "open_issues": 688,
             "owner": "bigskysoftware",
             "repo": "htmx",
-            "stars": 49300,
+            "stars": 49317,
             "topics": [
               "hateoas",
               "html",
@@ -103,7 +103,7 @@
             "open_issues": 17,
             "owner": "danieleteti",
             "repo": "delphimvcframework",
-            "stars": 1400,
+            "stars": 1401,
             "topics": [
               "api",
               "application-server",
@@ -138,11 +138,11 @@
             "id": 627567877,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T21:02:12Z",
+            "last_commit": "2026-09-01T18:29:54Z",
             "open_issues": 1,
             "owner": "openrundev",
             "repo": "openrun",
-            "stars": 964,
+            "stars": 965,
             "topics": [
               "appserver",
               "containers",
@@ -177,7 +177,7 @@
             "open_issues": 19,
             "owner": "getludic",
             "repo": "ludic",
-            "stars": 890,
+            "stars": 891,
             "topics": [
               "async",
               "django",
@@ -244,7 +244,7 @@
             "id": 487959167,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-03-14T17:02:28Z",
+            "last_commit": "2026-09-02T05:23:09Z",
             "open_issues": 4,
             "owner": "wimdeblauwe",
             "repo": "htmx-spring-boot",
@@ -546,7 +546,7 @@
             "id": 963482675,
             "language": "CSS",
             "license": "MIT",
-            "last_commit": "2026-08-21T04:11:09Z",
+            "last_commit": "2026-09-02T07:54:51Z",
             "open_issues": 0,
             "owner": "ZEISS",
             "repo": "fiber-htmx",
@@ -2512,7 +2512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T10:20:48.265Z",
+    "last_updated": "2026-09-02T09:49:17.139Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about htmx",
@@ -2524,7 +2524,7 @@
       "open_issues": 8,
       "owner": "rajasegar",
       "repo": "awesome-htmx",
-      "stars": 2312,
+      "stars": 2313,
       "topics": [
         "awesome",
         "awesome-list",
