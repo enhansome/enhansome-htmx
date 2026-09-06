@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-09-04T04:06:21Z",
-            "open_issues": 704,
+            "open_issues": 706,
             "owner": "bigskysoftware",
             "repo": "htmx",
-            "stars": 49347,
+            "stars": 49355,
             "topics": [
               "hateoas",
               "html",
@@ -138,7 +138,7 @@
             "id": 627567877,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T21:37:01Z",
+            "last_commit": "2026-09-05T17:22:06Z",
             "open_issues": 1,
             "owner": "openrundev",
             "repo": "openrun",
@@ -248,7 +248,7 @@
             "open_issues": 4,
             "owner": "wimdeblauwe",
             "repo": "htmx-spring-boot",
-            "stars": 687,
+            "stars": 684,
             "topics": [
               "htmx",
               "spring-boot",
@@ -2447,7 +2447,7 @@
                 "id": 336095791,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-09-03T23:43:55Z",
+                "last_commit": "2026-09-05T09:38:00Z",
                 "open_issues": 4,
                 "owner": "derkoe",
                 "repo": "quarkus-htmx-todos",
@@ -2512,7 +2512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T09:13:39.067Z",
+    "last_updated": "2026-09-06T09:35:36.838Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about htmx",
@@ -2524,7 +2524,7 @@
       "open_issues": 8,
       "owner": "rajasegar",
       "repo": "awesome-htmx",
-      "stars": 2314,
+      "stars": 2315,
       "topics": [
         "awesome",
         "awesome-list",
