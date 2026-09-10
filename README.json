@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-09-08T21:45:26Z",
-            "open_issues": 283,
+            "open_issues": 286,
             "owner": "bigskysoftware",
             "repo": "htmx",
-            "stars": 49401,
+            "stars": 49409,
             "topics": [
               "hateoas",
               "html",
@@ -80,7 +80,7 @@
             "open_issues": 12,
             "owner": "adamchainz",
             "repo": "django-htmx",
-            "stars": 2010,
+            "stars": 2011,
             "topics": [
               "django"
             ]
@@ -206,7 +206,7 @@
             "open_issues": 2,
             "owner": "angelofallars",
             "repo": "htmx-go",
-            "stars": 808,
+            "stars": 807,
             "topics": []
           },
           "first_seen": "2026-08-28T17:37:40.528Z"
@@ -248,7 +248,7 @@
             "open_issues": 4,
             "owner": "wimdeblauwe",
             "repo": "htmx-spring-boot",
-            "stars": 684,
+            "stars": 685,
             "topics": [
               "htmx",
               "spring-boot",
@@ -343,7 +343,7 @@
             "id": 866105850,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-07-30T18:13:30Z",
+            "last_commit": "2026-09-10T08:59:32Z",
             "open_issues": 0,
             "owner": "NomadicDaddy",
             "repo": "htmx-debugger",
@@ -1213,7 +1213,7 @@
                 "open_issues": 1,
                 "owner": "mikestefanello",
                 "repo": "pagoda",
-                "stars": 2954,
+                "stars": 2953,
                 "topics": [
                   "admin",
                   "admin-dashboard",
@@ -1618,7 +1618,7 @@
                 "open_issues": 12,
                 "owner": "adamchainz",
                 "repo": "django-htmx",
-                "stars": 2010,
+                "stars": 2011,
                 "topics": [
                   "django"
                 ]
@@ -2363,7 +2363,7 @@
                 "id": 865761609,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-08-14T18:34:32Z",
+                "last_commit": "2026-09-10T08:59:37Z",
                 "open_issues": 0,
                 "owner": "NomadicDaddy",
                 "repo": "podex",
@@ -2447,7 +2447,7 @@
                 "id": 336095791,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-09-05T09:38:00Z",
+                "last_commit": "2026-09-10T01:38:50Z",
                 "open_issues": 4,
                 "owner": "derkoe",
                 "repo": "quarkus-htmx-todos",
@@ -2512,7 +2512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T10:00:31.208Z",
+    "last_updated": "2026-09-10T09:57:58.972Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about htmx",
@@ -2524,7 +2524,7 @@
       "open_issues": 9,
       "owner": "rajasegar",
       "repo": "awesome-htmx",
-      "stars": 2315,
+      "stars": 2314,
       "topics": [
         "awesome",
         "awesome-list",
