@@ -15,11 +15,11 @@
             "id": 255378816,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T20:36:29Z",
-            "open_issues": 282,
+            "last_commit": "2026-09-12T14:03:09Z",
+            "open_issues": 286,
             "owner": "bigskysoftware",
             "repo": "htmx",
-            "stars": 49425,
+            "stars": 49426,
             "topics": [
               "hateoas",
               "html",
@@ -142,7 +142,7 @@
             "open_issues": 1,
             "owner": "openrundev",
             "repo": "openrun",
-            "stars": 973,
+            "stars": 974,
             "topics": [
               "appserver",
               "containers",
@@ -2512,7 +2512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T09:31:02.638Z",
+    "last_updated": "2026-09-13T10:29:54.687Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about htmx",
