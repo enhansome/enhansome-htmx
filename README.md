@@ -15,7 +15,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ## Official
 
-* [GitHub](https://github.com/bigskysoftware/htmx) ⭐ 49,426 | 🐛 286 | 🌐 JavaScript | 📅 2026-09-12
+* [GitHub](https://github.com/bigskysoftware/htmx) ⭐ 49,438 | 🐛 288 | 🌐 JavaScript | 📅 2026-09-12
 * [Website](https://htmx.org)
 * [Twitter](https://twitter.com/htmx_org?lang=en)
 * [Discord Server](https://htmx.org/discord)
@@ -77,12 +77,12 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 ## Tools
 
 * [django-htmx](https://github.com/adamchainz/django-htmx) ⭐ 2,012 | 🐛 12 | 🌐 JavaScript | 📅 2026-09-08 - Django integration.
-* [DelphiMVCFramework](https://github.com/danieleteti/delphimvcframework) ⭐ 1,404 | 🐛 17 | 🌐 Pascal | 📅 2026-08-23 - DelphiMVCFramework integration support for htmx (class helper in MVCFramework.HTMX)
+* [DelphiMVCFramework](https://github.com/danieleteti/delphimvcframework) ⭐ 1,404 | 🐛 18 | 🌐 Pascal | 📅 2026-09-14 - DelphiMVCFramework integration support for htmx (class helper in MVCFramework.HTMX)
 * [Clace](https://github.com/claceio/clace) ⭐ 974 | 🐛 1 | 🌐 Go | 📅 2026-09-11 - Hypermedia based internal tools for teams. Application server for containerized apps.
 * [ludic](https://github.com/paveldedik/ludic) ⭐ 892 | 🐛 19 | 🌐 Python | 📅 2026-07-20 - Lightweight framework for building dynamic HTML pages in pure Python with HTMX.
 * [htmx-go](https://github.com/angelofallars/htmx-go) ⭐ 807 | 🐛 2 | 🌐 Go | 📅 2024-11-30 - Go integration compatible with `net/http`, prioritizing type safety.
 * [htmx-lsp](https://github.com/ThePrimeagen/htmx-lsp) ⭐ 707 | 🐛 9 | 🌐 Rust | 📅 2025-10-18 - Language Server Protocol for Neovim to supercharge HTMX development
-* [htmx-spring-boot](https://github.com/wimdeblauwe/htmx-spring-boot) ⭐ 686 | 🐛 4 | 🌐 Java | 📅 2026-09-02 - Spring Boot support library for htmx
+* [htmx-spring-boot](https://github.com/wimdeblauwe/htmx-spring-boot) ⭐ 687 | 🐛 4 | 🌐 Java | 📅 2026-09-02 - Spring Boot support library for htmx
 * [htmx.net](https://github.com/khalidabuhakmeh/htmx.net) ⭐ 579 | 🐛 4 | 🌐 C# | 📅 2026-03-02 - ASP.NET Core integration (Htmx Extension Methods, TagHelpers, Htmx.Config)
 * [laravel-htmx](https://github.com/mauricius/laravel-htmx) ⭐ 365 | 🐛 3 | 🌐 PHP | 📅 2026-03-19 - Laravel integration for htmx.
 * [elem-go](https://github.com/chasefleming/elem-go) ⭐ 363 | 🐛 5 | 🌐 Go | 📅 2026-07-20 - A Go library for building HTML with htmx.
@@ -94,8 +94,8 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 * [swift-http-types-htmx](https://github.com/alephao/swift-http-types-htmx) ⭐ 18 | 🐛 0 | 🌐 Swift | 📅 2024-09-18 - HTMX extensions for swift-http-types
 * [CakePHP-htmx](https://github.com/zunnu/cake-htmx) ⭐ 18 | 🐛 0 | 🌐 PHP | 📅 2025-12-03 - CakePHP integration for Htmx.
 * [django-js-lib-htmx](https://github.com/nonZero/django-js-lib-htmx) ⭐ 7 | 🐛 1 | 🌐 Shell | 📅 2024-10-09 - Django package containing the htmx scripts.
-* [HTMX for ⚡️ fiber](https://github.com/ZEISS/fiber-htmx) ⭐ 6 | 🐛 0 | 🌐 CSS | 📅 2026-09-11 - A middleware to render [HTMX](https://github.com/katallaxie/htmx) ⭐ 3 | 🐛 0 | 🌐 CSS | 📅 2026-09-07 components.
-* [HTMX](https://github.com/katallaxie/htmx) ⭐ 3 | 🐛 0 | 🌐 CSS | 📅 2026-09-07 🔨Write HTML and HTMX applications in pure Go and a lot more.
+* [HTMX for ⚡️ fiber](https://github.com/ZEISS/fiber-htmx) ⭐ 6 | 🐛 0 | 🌐 CSS | 📅 2026-09-11 - A middleware to render [HTMX](https://github.com/katallaxie/htmx) ⭐ 3 | 🐛 0 | 🌐 CSS | 📅 2026-09-14 components.
+* [HTMX](https://github.com/katallaxie/htmx) ⭐ 3 | 🐛 0 | 🌐 CSS | 📅 2026-09-14 🔨Write HTML and HTMX applications in pure Go and a lot more.
 * [Sprig](https://putyourlightson.com/plugins/sprig) - Craft CMS plugin.
 * [simpleui](https://whamtet.github.io/simpleui/) - Clojure backend helpers for htmx.
 * [IntelliJ htmx plugin](https://plugins.jetbrains.com/plugin/20588-htmx-support)
@@ -293,4 +293,4 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
