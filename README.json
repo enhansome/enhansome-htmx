@@ -19,7 +19,7 @@
             "open_issues": 288,
             "owner": "bigskysoftware",
             "repo": "htmx",
-            "stars": 49438,
+            "stars": 49443,
             "topics": [
               "hateoas",
               "html",
@@ -80,7 +80,7 @@
             "open_issues": 12,
             "owner": "adamchainz",
             "repo": "django-htmx",
-            "stars": 2012,
+            "stars": 2011,
             "topics": [
               "django"
             ]
@@ -99,7 +99,7 @@
             "id": 36435897,
             "language": "Pascal",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T07:43:21Z",
+            "last_commit": "2026-09-14T10:55:18Z",
             "open_issues": 18,
             "owner": "danieleteti",
             "repo": "delphimvcframework",
@@ -177,7 +177,7 @@
             "open_issues": 19,
             "owner": "getludic",
             "repo": "ludic",
-            "stars": 892,
+            "stars": 891,
             "topics": [
               "async",
               "django",
@@ -372,7 +372,7 @@
             "open_issues": 3,
             "owner": "rootstrap",
             "repo": "htmx-rails",
-            "stars": 118,
+            "stars": 119,
             "topics": [
               "htmx",
               "rails",
@@ -448,7 +448,7 @@
             "open_issues": 3,
             "owner": "benopotamus",
             "repo": "htmx-ext-shoelace",
-            "stars": 76,
+            "stars": 75,
             "topics": [
               "htmx",
               "shoelace"
@@ -1471,7 +1471,7 @@
                 "open_issues": 5,
                 "owner": "ChangeNode",
                 "repo": "spring-boot-supabase",
-                "stars": 208,
+                "stars": 207,
                 "topics": [
                   "java",
                   "pinegrow",
@@ -1618,7 +1618,7 @@
                 "open_issues": 12,
                 "owner": "adamchainz",
                 "repo": "django-htmx",
-                "stars": 2012,
+                "stars": 2011,
                 "topics": [
                   "django"
                 ]
@@ -1641,7 +1641,7 @@
                 "open_issues": 14,
                 "owner": "PyHAT-stack",
                 "repo": "awesome-python-htmx",
-                "stars": 1335,
+                "stars": 1334,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:37:40.528Z"
@@ -1690,7 +1690,7 @@
                 "open_issues": 0,
                 "owner": "arcanemachine",
                 "repo": "django-htmx-alpine",
-                "stars": 197,
+                "stars": 196,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:37:40.528Z"
@@ -1841,7 +1841,7 @@
                 "open_issues": 0,
                 "owner": "AccordBox",
                 "repo": "django-tailwind-alpine-htmx",
-                "stars": 64,
+                "stars": 63,
                 "topics": [
                   "alpinejs",
                   "htmx",
@@ -2330,7 +2330,7 @@
                 "open_issues": 0,
                 "owner": "syarul",
                 "repo": "todomvc-lua-luasocket-htmx-_hyperscript",
-                "stars": 2,
+                "stars": 3,
                 "topics": [
                   "hateoas",
                   "htmx",
@@ -2512,7 +2512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T10:54:08.953Z",
+    "last_updated": "2026-09-15T10:18:02.821Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about htmx",
@@ -2524,7 +2524,7 @@
       "open_issues": 9,
       "owner": "rajasegar",
       "repo": "awesome-htmx",
-      "stars": 2316,
+      "stars": 2317,
       "topics": [
         "awesome",
         "awesome-list",
