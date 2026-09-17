@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-09-12T14:03:09Z",
-            "open_issues": 291,
+            "open_issues": 295,
             "owner": "bigskysoftware",
             "repo": "htmx",
-            "stars": 49451,
+            "stars": 49459,
             "topics": [
               "hateoas",
               "html",
@@ -138,7 +138,7 @@
             "id": 627567877,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T05:00:41Z",
+            "last_commit": "2026-09-17T03:11:54Z",
             "open_issues": 1,
             "owner": "openrundev",
             "repo": "openrun",
@@ -244,8 +244,8 @@
             "id": 487959167,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T08:14:41Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-16T16:03:53Z",
+            "open_issues": 5,
             "owner": "wimdeblauwe",
             "repo": "htmx-spring-boot",
             "stars": 687,
@@ -2512,7 +2512,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T10:12:23.583Z",
+    "last_updated": "2026-09-17T10:16:53.849Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about htmx",
