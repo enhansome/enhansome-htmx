@@ -15,11 +15,11 @@
             "id": 255378816,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-12T14:03:09Z",
-            "open_issues": 295,
+            "last_commit": "2026-09-18T00:23:47Z",
+            "open_issues": 261,
             "owner": "bigskysoftware",
             "repo": "htmx",
-            "stars": 49459,
+            "stars": 49472,
             "topics": [
               "hateoas",
               "html",
@@ -80,7 +80,7 @@
             "open_issues": 12,
             "owner": "adamchainz",
             "repo": "django-htmx",
-            "stars": 2011,
+            "stars": 2013,
             "topics": [
               "django"
             ]
@@ -103,7 +103,7 @@
             "open_issues": 19,
             "owner": "danieleteti",
             "repo": "delphimvcframework",
-            "stars": 1404,
+            "stars": 1406,
             "topics": [
               "api",
               "application-server",
@@ -138,7 +138,7 @@
             "id": 627567877,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-17T03:11:54Z",
+            "last_commit": "2026-09-17T21:27:46Z",
             "open_issues": 1,
             "owner": "openrundev",
             "repo": "openrun",
@@ -248,7 +248,7 @@
             "open_issues": 5,
             "owner": "wimdeblauwe",
             "repo": "htmx-spring-boot",
-            "stars": 687,
+            "stars": 688,
             "topics": [
               "htmx",
               "spring-boot",
@@ -273,7 +273,7 @@
             "open_issues": 4,
             "owner": "khalidabuhakmeh",
             "repo": "Htmx.Net",
-            "stars": 579,
+            "stars": 580,
             "topics": [
               "aspnetcore",
               "dotnet",
@@ -546,7 +546,7 @@
             "id": 963482675,
             "language": "CSS",
             "license": "MIT",
-            "last_commit": "2026-09-11T04:08:37Z",
+            "last_commit": "2026-09-18T00:36:45Z",
             "open_issues": 0,
             "owner": "ZEISS",
             "repo": "fiber-htmx",
@@ -1618,7 +1618,7 @@
                 "open_issues": 12,
                 "owner": "adamchainz",
                 "repo": "django-htmx",
-                "stars": 2011,
+                "stars": 2013,
                 "topics": [
                   "django"
                 ]
@@ -1918,65 +1918,6 @@
                 "repo": "owela-club",
                 "stars": 35,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T17:37:40.528Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Django HTMLX Material Kit",
-              "description": "Simple starter powered by , and",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Django HTMLx - Material Kit Design (Open-Source) | AppSeed",
-                "homepage": "https://appseed.us",
-                "id": 487807728,
-                "language": "SCSS",
-                "license": "NOASSERTION",
-                "last_commit": "2022-05-04T05:27:07Z",
-                "open_issues": 0,
-                "owner": "app-generator",
-                "repo": "sample-django-htmlx-mkit",
-                "stars": 19,
-                "topics": [
-                  "appseed-sample",
-                  "django-application",
-                  "django-htmx",
-                  "django-sample",
-                  "htmlx",
-                  "htmx-django"
-                ]
-              },
-              "first_seen": "2026-08-28T17:37:40.528Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Flask HTMLX Material Kit",
-              "description": "Simple starter powered by , and",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Flask HTMLx - Material Kit Design (Open-Source) | AppSeed",
-                "homepage": "https://blog.appseed.us/flask-htmlx-material-kit-design/",
-                "id": 487588753,
-                "language": "SCSS",
-                "license": "NOASSERTION",
-                "last_commit": "2022-05-04T05:23:04Z",
-                "open_issues": 0,
-                "owner": "app-generator",
-                "repo": "sample-flask-htmlx-mkit",
-                "stars": 18,
-                "topics": [
-                  "appseed-sample",
-                  "flask-htmx",
-                  "flask-sample",
-                  "htmlx",
-                  "htmx-app",
-                  "htmx-flask",
-                  "htmx-free-template",
-                  "htmx-starter",
-                  "htmx-template"
-                ]
               },
               "first_seen": "2026-08-28T17:37:40.528Z"
             },
@@ -2512,7 +2453,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T10:16:53.849Z",
+    "last_updated": "2026-09-18T09:58:44.752Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about htmx",
