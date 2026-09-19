@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-09-18T00:23:47Z",
-            "open_issues": 261,
+            "open_issues": 259,
             "owner": "bigskysoftware",
             "repo": "htmx",
-            "stars": 49472,
+            "stars": 49483,
             "topics": [
               "hateoas",
               "html",
@@ -53,7 +53,7 @@
             "open_issues": 7,
             "owner": "moappi",
             "repo": "json2html",
-            "stars": 644,
+            "stars": 641,
             "topics": []
           },
           "first_seen": "2026-08-28T17:37:40.528Z"
@@ -103,7 +103,7 @@
             "open_issues": 19,
             "owner": "danieleteti",
             "repo": "delphimvcframework",
-            "stars": 1406,
+            "stars": 1409,
             "topics": [
               "api",
               "application-server",
@@ -142,7 +142,7 @@
             "open_issues": 1,
             "owner": "openrundev",
             "repo": "openrun",
-            "stars": 974,
+            "stars": 975,
             "topics": [
               "appserver",
               "containers",
@@ -2453,7 +2453,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T09:58:44.752Z",
+    "last_updated": "2026-09-19T09:40:31.138Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about htmx",
