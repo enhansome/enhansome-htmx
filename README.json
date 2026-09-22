@@ -15,11 +15,11 @@
             "id": 255378816,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-18T00:23:47Z",
-            "open_issues": 264,
+            "last_commit": "2026-09-21T13:30:11Z",
+            "open_issues": 265,
             "owner": "bigskysoftware",
             "repo": "htmx",
-            "stars": 49492,
+            "stars": 49497,
             "topics": [
               "hateoas",
               "html",
@@ -80,7 +80,7 @@
             "open_issues": 12,
             "owner": "adamchainz",
             "repo": "django-htmx",
-            "stars": 2013,
+            "stars": 2012,
             "topics": [
               "django"
             ]
@@ -142,7 +142,7 @@
             "open_issues": 1,
             "owner": "openrundev",
             "repo": "openrun",
-            "stars": 975,
+            "stars": 976,
             "topics": [
               "appserver",
               "containers",
@@ -173,8 +173,8 @@
             "id": 769005895,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-07-20T20:12:52Z",
-            "open_issues": 19,
+            "last_commit": "2026-09-21T20:13:33Z",
+            "open_issues": 20,
             "owner": "getludic",
             "repo": "ludic",
             "stars": 891,
@@ -1276,7 +1276,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-04-07T18:46:46Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "donseba",
                 "repo": "go-htmx",
                 "stars": 598,
@@ -1618,7 +1618,7 @@
                 "open_issues": 12,
                 "owner": "adamchainz",
                 "repo": "django-htmx",
-                "stars": 2013,
+                "stars": 2012,
                 "topics": [
                   "django"
                 ]
@@ -2453,7 +2453,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T10:59:06.049Z",
+    "last_updated": "2026-09-22T10:13:22.134Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about htmx",
