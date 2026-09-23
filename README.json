@@ -15,11 +15,11 @@
             "id": 255378816,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-21T13:30:11Z",
-            "open_issues": 265,
+            "last_commit": "2026-09-22T21:20:49Z",
+            "open_issues": 263,
             "owner": "bigskysoftware",
             "repo": "htmx",
-            "stars": 49497,
+            "stars": 49504,
             "topics": [
               "hateoas",
               "html",
@@ -80,7 +80,7 @@
             "open_issues": 12,
             "owner": "adamchainz",
             "repo": "django-htmx",
-            "stars": 2012,
+            "stars": 2013,
             "topics": [
               "django"
             ]
@@ -99,11 +99,11 @@
             "id": 36435897,
             "language": "Pascal",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T10:55:18Z",
-            "open_issues": 20,
+            "last_commit": "2026-09-22T15:04:22Z",
+            "open_issues": 16,
             "owner": "danieleteti",
             "repo": "delphimvcframework",
-            "stars": 1412,
+            "stars": 1411,
             "topics": [
               "api",
               "application-server",
@@ -138,7 +138,7 @@
             "id": 627567877,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T04:42:37Z",
+            "last_commit": "2026-09-22T20:58:02Z",
             "open_issues": 1,
             "owner": "openrundev",
             "repo": "openrun",
@@ -1618,7 +1618,7 @@
                 "open_issues": 12,
                 "owner": "adamchainz",
                 "repo": "django-htmx",
-                "stars": 2012,
+                "stars": 2013,
                 "topics": [
                   "django"
                 ]
@@ -2453,7 +2453,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T10:13:22.134Z",
+    "last_updated": "2026-09-23T10:12:55.242Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about htmx",
@@ -2465,7 +2465,7 @@
       "open_issues": 9,
       "owner": "rajasegar",
       "repo": "awesome-htmx",
-      "stars": 2319,
+      "stars": 2318,
       "topics": [
         "awesome",
         "awesome-list",
