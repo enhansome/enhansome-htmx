@@ -19,7 +19,7 @@
             "open_issues": 273,
             "owner": "bigskysoftware",
             "repo": "htmx",
-            "stars": 49511,
+            "stars": 49518,
             "topics": [
               "hateoas",
               "html",
@@ -80,7 +80,7 @@
             "open_issues": 12,
             "owner": "adamchainz",
             "repo": "django-htmx",
-            "stars": 2013,
+            "stars": 2014,
             "topics": [
               "django"
             ]
@@ -99,8 +99,8 @@
             "id": 36435897,
             "language": "Pascal",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T15:04:22Z",
-            "open_issues": 20,
+            "last_commit": "2026-09-25T21:47:53Z",
+            "open_issues": 19,
             "owner": "danieleteti",
             "repo": "delphimvcframework",
             "stars": 1411,
@@ -142,7 +142,7 @@
             "open_issues": 1,
             "owner": "openrundev",
             "repo": "openrun",
-            "stars": 975,
+            "stars": 977,
             "topics": [
               "appserver",
               "containers",
@@ -1213,7 +1213,7 @@
                 "open_issues": 1,
                 "owner": "mikestefanello",
                 "repo": "pagoda",
-                "stars": 2954,
+                "stars": 2955,
                 "topics": [
                   "admin",
                   "admin-dashboard",
@@ -1618,7 +1618,7 @@
                 "open_issues": 12,
                 "owner": "adamchainz",
                 "repo": "django-htmx",
-                "stars": 2013,
+                "stars": 2014,
                 "topics": [
                   "django"
                 ]
@@ -2453,7 +2453,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T10:25:59.087Z",
+    "last_updated": "2026-09-26T10:05:19.546Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about htmx",
