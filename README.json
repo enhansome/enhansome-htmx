@@ -19,7 +19,7 @@
             "open_issues": 273,
             "owner": "bigskysoftware",
             "repo": "htmx",
-            "stars": 49518,
+            "stars": 49522,
             "topics": [
               "hateoas",
               "html",
@@ -138,11 +138,11 @@
             "id": 627567877,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T03:59:38Z",
+            "last_commit": "2026-09-26T23:08:49Z",
             "open_issues": 1,
             "owner": "openrundev",
             "repo": "openrun",
-            "stars": 977,
+            "stars": 978,
             "topics": [
               "appserver",
               "containers",
@@ -227,7 +227,7 @@
             "open_issues": 9,
             "owner": "ThePrimeagen",
             "repo": "htmx-lsp",
-            "stars": 706,
+            "stars": 707,
             "topics": []
           },
           "first_seen": "2026-08-28T17:37:40.528Z"
@@ -1732,7 +1732,7 @@
                 "open_issues": 3,
                 "owner": "bblanchon",
                 "repo": "django-htmx-modal-form",
-                "stars": 120,
+                "stars": 119,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:37:40.528Z"
@@ -2453,7 +2453,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T10:05:19.546Z",
+    "last_updated": "2026-09-27T10:40:25.155Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about htmx",

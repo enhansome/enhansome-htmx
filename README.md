@@ -15,7 +15,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ## Official
 
-* [GitHub](https://github.com/bigskysoftware/htmx) ⭐ 49,518 | 🐛 273 | 🌐 JavaScript | 📅 2026-09-22
+* [GitHub](https://github.com/bigskysoftware/htmx) ⭐ 49,522 | 🐛 273 | 🌐 JavaScript | 📅 2026-09-22
 * [Website](https://htmx.org)
 * [Twitter](https://twitter.com/htmx_org?lang=en)
 * [Discord Server](https://htmx.org/discord)
@@ -78,10 +78,10 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 * [django-htmx](https://github.com/adamchainz/django-htmx) ⭐ 2,014 | 🐛 12 | 🌐 JavaScript | 📅 2026-09-08 - Django integration.
 * [DelphiMVCFramework](https://github.com/danieleteti/delphimvcframework) ⭐ 1,411 | 🐛 19 | 🌐 Pascal | 📅 2026-09-25 - DelphiMVCFramework integration support for htmx (class helper in MVCFramework.HTMX)
-* [Clace](https://github.com/claceio/clace) ⭐ 977 | 🐛 1 | 🌐 Go | 📅 2026-09-25 - Hypermedia based internal tools for teams. Application server for containerized apps.
+* [Clace](https://github.com/claceio/clace) ⭐ 978 | 🐛 1 | 🌐 Go | 📅 2026-09-26 - Hypermedia based internal tools for teams. Application server for containerized apps.
 * [ludic](https://github.com/paveldedik/ludic) ⭐ 891 | 🐛 20 | 🌐 Python | 📅 2026-09-21 - Lightweight framework for building dynamic HTML pages in pure Python with HTMX.
 * [htmx-go](https://github.com/angelofallars/htmx-go) ⭐ 807 | 🐛 2 | 🌐 Go | 📅 2024-11-30 - Go integration compatible with `net/http`, prioritizing type safety.
-* [htmx-lsp](https://github.com/ThePrimeagen/htmx-lsp) ⭐ 706 | 🐛 9 | 🌐 Rust | 📅 2025-10-18 - Language Server Protocol for Neovim to supercharge HTMX development
+* [htmx-lsp](https://github.com/ThePrimeagen/htmx-lsp) ⭐ 707 | 🐛 9 | 🌐 Rust | 📅 2025-10-18 - Language Server Protocol for Neovim to supercharge HTMX development
 * [htmx-spring-boot](https://github.com/wimdeblauwe/htmx-spring-boot) ⭐ 689 | 🐛 5 | 🌐 Java | 📅 2026-09-16 - Spring Boot support library for htmx
 * [htmx.net](https://github.com/khalidabuhakmeh/htmx.net) ⭐ 580 | 🐛 4 | 🌐 C# | 📅 2026-03-02 - ASP.NET Core integration (Htmx Extension Methods, TagHelpers, Htmx.Config)
 * [laravel-htmx](https://github.com/mauricius/laravel-htmx) ⭐ 364 | 🐛 3 | 🌐 PHP | 📅 2026-03-19 - Laravel integration for htmx.
@@ -221,7 +221,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 * [fast-htmx](https://github.com/marty331/fasthtmx) ⭐ 275 | 🐛 3 | 🌐 CSS | 📅 2024-01-15 - Fast-HTMX is a demo project of FastAPI an HTMX. The purpose of this project is to illustrate how to create a website with no JavaScript, using only HTML, CSS, and Python.
 * [django-htmx-alpine](https://github.com/arcanemachine/django-htmx-alpine/) ⭐ 196 | 🐛 0 | 🌐 CSS | 📅 2022-03-28 - Basic todo list with Django, HTMX, and Alpine. Features a [live demonstration](https://django-htmx-alpine.nicholasmoen.com/).
 * [django-htmx-fun](https://github.com/guettli/django-htmx-fun) ⭐ 193 | 🐛 0 | 🌐 Python | 📅 2021-11-22 - A small Django application to advertise the fun htmx can bring you.
-* [Modal forms with Django+HTMX](https://github.com/bblanchon/django-htmx-modal-form) ⭐ 120 | 🐛 3 | 🌐 Python | 📅 2023-03-08 - A sample project to demonstrates how to show a Django Form in a modal dialog box using HTMX.
+* [Modal forms with Django+HTMX](https://github.com/bblanchon/django-htmx-modal-form) ⭐ 119 | 🐛 3 | 🌐 Python | 📅 2023-03-08 - A sample project to demonstrates how to show a Django Form in a modal dialog box using HTMX.
 * [fastapi-htmx-tailwind-example](https://github.com/volfpeter/fastapi-htmx-tailwind-example) ⭐ 108 | 🐛 0 | 🌐 Python | 📅 2025-05-23 - Async `FastAPI`, `Jinja2`, `TailwindCSS`, `DaisyUI`, and `MongoDB` example; featuring for example active search, server-sent events, server-side HTMX triggers, lazy loading, and dynamic dialogs.
 * [htmxflask](https://github.com/cscortes/htmxflask) ⭐ 97 | 🐛 20 | 🌐 Python | 📅 2025-10-01 - All the HTMX samples redone using a flask server.
 * [flask-htmx-tailwind](https://github.com/testdrivenio/flask-htmx-tailwind) ⭐ 87 | 🐛 1 | 🌐 JavaScript | 📅 2024-01-31 - Rapid Prototyping with Flask, htmx, and Tailwind CSS
@@ -293,4 +293,4 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
