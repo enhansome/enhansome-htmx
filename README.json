@@ -19,7 +19,7 @@
             "open_issues": 278,
             "owner": "bigskysoftware",
             "repo": "htmx",
-            "stars": 49535,
+            "stars": 49533,
             "topics": [
               "hateoas",
               "html",
@@ -138,7 +138,7 @@
             "id": 627567877,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T02:16:06Z",
+            "last_commit": "2026-10-01T03:52:16Z",
             "open_issues": 1,
             "owner": "openrundev",
             "repo": "openrun",
@@ -244,7 +244,7 @@
             "id": 487959167,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T16:03:53Z",
+            "last_commit": "2026-10-01T05:30:44Z",
             "open_issues": 5,
             "owner": "wimdeblauwe",
             "repo": "htmx-spring-boot",
@@ -372,7 +372,7 @@
             "open_issues": 3,
             "owner": "rootstrap",
             "repo": "htmx-rails",
-            "stars": 120,
+            "stars": 119,
             "topics": [
               "htmx",
               "rails",
@@ -1279,7 +1279,7 @@
                 "open_issues": 0,
                 "owner": "donseba",
                 "repo": "go-htmx",
-                "stars": 598,
+                "stars": 599,
                 "topics": [
                   "go-htmx",
                   "golang",
@@ -2453,7 +2453,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T11:17:30.134Z",
+    "last_updated": "2026-10-01T11:44:55.897Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about htmx",
