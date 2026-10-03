@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "bigskysoftware/htmx",
-          "description": null,
+          "description": "bigskysoftware/htmx",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 283,
             "owner": "bigskysoftware",
             "repo": "htmx",
-            "stars": 49538,
+            "stars": 49537,
             "topics": [
               "hateoas",
               "html",
@@ -40,7 +40,7 @@
         {
           "node_type": "item",
           "title": "json2html",
-          "description": null,
+          "description": "moappi/json2html",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -76,7 +76,7 @@
             "id": 305154838,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T23:37:37Z",
+            "last_commit": "2026-10-02T22:57:27Z",
             "open_issues": 12,
             "owner": "adamchainz",
             "repo": "django-htmx",
@@ -103,7 +103,7 @@
             "open_issues": 19,
             "owner": "danieleteti",
             "repo": "delphimvcframework",
-            "stars": 1412,
+            "stars": 1413,
             "topics": [
               "api",
               "application-server",
@@ -138,11 +138,11 @@
             "id": 627567877,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T01:24:02Z",
+            "last_commit": "2026-10-02T21:39:34Z",
             "open_issues": 1,
             "owner": "openrundev",
             "repo": "openrun",
-            "stars": 978,
+            "stars": 979,
             "topics": [
               "appserver",
               "containers",
@@ -244,8 +244,8 @@
             "id": 487959167,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T11:13:08Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-02T11:17:53Z",
+            "open_issues": 5,
             "owner": "wimdeblauwe",
             "repo": "htmx-spring-boot",
             "stars": 691,
@@ -1213,7 +1213,7 @@
                 "open_issues": 2,
                 "owner": "mikestefanello",
                 "repo": "pagoda",
-                "stars": 2957,
+                "stars": 2956,
                 "topics": [
                   "admin",
                   "admin-dashboard",
@@ -1429,7 +1429,7 @@
             {
               "node_type": "item",
               "title": "Spring-Boot HTMX",
-              "description": null,
+              "description": "wiverson/htmx-demo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1458,7 +1458,7 @@
             {
               "node_type": "item",
               "title": "Frisson: Easy, Powerful Full Stack with Spring Boot and HTMX",
-              "description": null,
+              "description": "ChangeNode/spring-boot-supabase",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1484,7 +1484,7 @@
             {
               "node_type": "item",
               "title": "Spring Boot HTMX integration",
-              "description": null,
+              "description": "odrotbohm/spring-playground",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1505,7 +1505,7 @@
             {
               "node_type": "item",
               "title": "TodoWebflux Spring Boot HTMX demo",
-              "description": null,
+              "description": "dsyer/spring-todo-mvc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1614,7 +1614,7 @@
                 "id": 305154838,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-29T23:37:37Z",
+                "last_commit": "2026-10-02T22:57:27Z",
                 "open_issues": 12,
                 "owner": "adamchainz",
                 "repo": "django-htmx",
@@ -1924,7 +1924,7 @@
             {
               "node_type": "item",
               "title": "django-htmx-todo",
-              "description": null,
+              "description": "jaredlockhart/django-htmx-todo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2233,7 +2233,7 @@
                 "open_issues": 0,
                 "owner": "dgv",
                 "repo": "zig-htmx-tailwind-example",
-                "stars": 12,
+                "stars": 13,
                 "topics": [
                   "crud",
                   "crud-application",
@@ -2388,7 +2388,7 @@
                 "id": 336095791,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-09-19T23:33:32Z",
+                "last_commit": "2026-10-02T19:40:11Z",
                 "open_issues": 4,
                 "owner": "derkoe",
                 "repo": "quarkus-htmx-todos",
@@ -2453,7 +2453,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T11:15:19.397Z",
+    "last_updated": "2026-10-03T04:48:07.185Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about htmx",
