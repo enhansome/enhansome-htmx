@@ -19,7 +19,7 @@
             "open_issues": 283,
             "owner": "bigskysoftware",
             "repo": "htmx",
-            "stars": 49537,
+            "stars": 49536,
             "topics": [
               "hateoas",
               "html",
@@ -1275,8 +1275,8 @@
                 "id": 600389720,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-04-07T18:46:46Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-03T07:01:59Z",
+                "open_issues": 0,
                 "owner": "donseba",
                 "repo": "go-htmx",
                 "stars": 599,
@@ -2453,7 +2453,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:48:07.185Z",
+    "last_updated": "2026-10-03T10:31:53.261Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about htmx",

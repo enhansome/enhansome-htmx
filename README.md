@@ -15,7 +15,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ## Official
 
-* [GitHub](https://github.com/bigskysoftware/htmx) ⭐ 49,537 | 🐛 283 | 🌐 JavaScript | 📅 2026-10-02
+* [GitHub](https://github.com/bigskysoftware/htmx) ⭐ 49,536 | 🐛 283 | 🌐 JavaScript | 📅 2026-10-02
 * [Website](https://htmx.org)
 * [Twitter](https://twitter.com/htmx_org?lang=en)
 * [Discord Server](https://htmx.org/discord)
@@ -194,7 +194,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 * [pagoda](https://github.com/mikestefanello/pagoda) ⭐ 2,956 | 🐛 2 | 🌐 Go | 📅 2026-08-14 - Rapid, easy full-stack web development starter kit in Go with HTMX support and examples.
 * [Pushup](https://github.com/adhocteam/pushup) ⭐ 853 | 🐛 48 | 🌐 Go | 📅 2026-07-02 - A server-side, page-oriented web framework for the Go programming language.
-* [GO HTMX](https://github.com/donseba/go-htmx) ⭐ 599 | 🐛 2 | 🌐 Go | 📅 2026-04-07 - Seamless HTMX Integration for Go Applications.
+* [GO HTMX](https://github.com/donseba/go-htmx) ⭐ 599 | 🐛 0 | 🌐 Go | 📅 2026-10-03 - Seamless HTMX Integration for Go Applications.
 * [Simple Counter App](https://github.com/chasefleming/elem-go/tree/main/examples/htmx-fiber-counter) ⭐ 363 | 🐛 5 | 🌐 Go | 📅 2026-07-20 - A simple counter app built with `htmx`, `elem-go`, and `Go Fiber`.
 * [Todo App](https://github.com/chasefleming/elem-go/tree/main/examples/htmx-fiber-todo) ⭐ 363 | 🐛 5 | 🌐 Go | 📅 2026-07-20 - A todo app built with `htmx`, `elem-go`, and `Go Fiber`.
 * [Realtime Todo App](https://github.com/gobijan/go-htmx-todo) ⭐ 14 | 🐛 0 | 🌐 Go | 📅 2025-11-13 - This is a Go Todo App using WebSockets, HTMX, and DOM-Morphing.
