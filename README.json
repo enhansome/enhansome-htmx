@@ -19,7 +19,7 @@
             "open_issues": 285,
             "owner": "bigskysoftware",
             "repo": "htmx",
-            "stars": 49541,
+            "stars": 49542,
             "topics": [
               "hateoas",
               "html",
@@ -76,11 +76,11 @@
             "id": 305154838,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T22:57:27Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-05T19:29:27Z",
+            "open_issues": 13,
             "owner": "adamchainz",
             "repo": "django-htmx",
-            "stars": 2018,
+            "stars": 2019,
             "topics": [
               "django"
             ]
@@ -99,7 +99,7 @@
             "id": 36435897,
             "language": "Pascal",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T09:18:52Z",
+            "last_commit": "2026-10-05T20:32:48Z",
             "open_issues": 19,
             "owner": "danieleteti",
             "repo": "delphimvcframework",
@@ -138,11 +138,11 @@
             "id": 627567877,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T21:39:34Z",
+            "last_commit": "2026-10-06T02:48:36Z",
             "open_issues": 1,
             "owner": "openrundev",
             "repo": "openrun",
-            "stars": 979,
+            "stars": 980,
             "topics": [
               "appserver",
               "containers",
@@ -244,11 +244,11 @@
             "id": 487959167,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T11:17:53Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-05T15:06:29Z",
+            "open_issues": 2,
             "owner": "wimdeblauwe",
             "repo": "htmx-spring-boot",
-            "stars": 691,
+            "stars": 690,
             "topics": [
               "htmx",
               "spring-boot",
@@ -286,6 +286,32 @@
         },
         {
           "node_type": "item",
+          "title": "elem-go",
+          "description": "A Go library for building HTML with htmx.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Type-safe HTML for Go. Build views in pure Go: no templates, no code generation, no build step. Includes htmx helpers and type-safe CSS.",
+            "homepage": null,
+            "id": 701461609,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2026-07-20T02:55:23Z",
+            "open_issues": 6,
+            "owner": "chasefleming",
+            "repo": "elem-go",
+            "stars": 364,
+            "topics": [
+              "go",
+              "golang",
+              "html",
+              "htmx"
+            ]
+          },
+          "first_seen": "2026-08-28T17:37:40.528Z"
+        },
+        {
+          "node_type": "item",
           "title": "laravel-htmx",
           "description": "Laravel integration for htmx.",
           "children": [],
@@ -302,32 +328,6 @@
             "repo": "laravel-htmx",
             "stars": 363,
             "topics": []
-          },
-          "first_seen": "2026-08-28T17:37:40.528Z"
-        },
-        {
-          "node_type": "item",
-          "title": "elem-go",
-          "description": "A Go library for building HTML with htmx.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Type-safe HTML for Go. Build views in pure Go: no templates, no code generation, no build step. Includes htmx helpers and type-safe CSS.",
-            "homepage": null,
-            "id": 701461609,
-            "language": "Go",
-            "license": "MIT",
-            "last_commit": "2026-07-20T02:55:23Z",
-            "open_issues": 6,
-            "owner": "chasefleming",
-            "repo": "elem-go",
-            "stars": 363,
-            "topics": [
-              "go",
-              "golang",
-              "html",
-              "htmx"
-            ]
           },
           "first_seen": "2026-08-28T17:37:40.528Z"
         },
@@ -1279,7 +1279,7 @@
                 "open_issues": 0,
                 "owner": "donseba",
                 "repo": "go-htmx",
-                "stars": 600,
+                "stars": 601,
                 "topics": [
                   "go-htmx",
                   "golang",
@@ -1307,7 +1307,7 @@
                 "open_issues": 6,
                 "owner": "chasefleming",
                 "repo": "elem-go",
-                "stars": 363,
+                "stars": 364,
                 "topics": [
                   "go",
                   "golang",
@@ -1333,7 +1333,7 @@
                 "open_issues": 6,
                 "owner": "chasefleming",
                 "repo": "elem-go",
-                "stars": 363,
+                "stars": 364,
                 "topics": [
                   "go",
                   "golang",
@@ -1614,11 +1614,11 @@
                 "id": 305154838,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T22:57:27Z",
-                "open_issues": 12,
+                "last_commit": "2026-10-05T19:29:27Z",
+                "open_issues": 13,
                 "owner": "adamchainz",
                 "repo": "django-htmx",
-                "stars": 2018,
+                "stars": 2019,
                 "topics": [
                   "django"
                 ]
@@ -2453,7 +2453,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T12:30:27.074Z",
+    "last_updated": "2026-10-06T10:45:40.386Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about htmx",
