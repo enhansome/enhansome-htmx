@@ -15,11 +15,11 @@
             "id": 255378816,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T10:39:02Z",
-            "open_issues": 306,
+            "last_commit": "2026-10-13T08:44:24Z",
+            "open_issues": 304,
             "owner": "bigskysoftware",
             "repo": "htmx",
-            "stars": 49560,
+            "stars": 49564,
             "topics": [
               "hateoas",
               "html",
@@ -80,7 +80,7 @@
             "open_issues": 14,
             "owner": "adamchainz",
             "repo": "django-htmx",
-            "stars": 2018,
+            "stars": 2019,
             "topics": [
               "django"
             ]
@@ -99,7 +99,7 @@
             "id": 36435897,
             "language": "Pascal",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-11T15:14:26Z",
+            "last_commit": "2026-10-12T21:32:43Z",
             "open_issues": 19,
             "owner": "danieleteti",
             "repo": "delphimvcframework",
@@ -138,7 +138,7 @@
             "id": 627567877,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T20:15:56Z",
+            "last_commit": "2026-10-13T04:50:55Z",
             "open_issues": 1,
             "owner": "openrundev",
             "repo": "openrun",
@@ -177,7 +177,7 @@
             "open_issues": 20,
             "owner": "getludic",
             "repo": "ludic",
-            "stars": 892,
+            "stars": 893,
             "topics": [
               "async",
               "django",
@@ -244,8 +244,8 @@
             "id": 487959167,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T09:12:17Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-13T09:48:41Z",
+            "open_issues": 4,
             "owner": "wimdeblauwe",
             "repo": "htmx-spring-boot",
             "stars": 690,
@@ -1254,7 +1254,7 @@
                 "open_issues": 48,
                 "owner": "adhocteam",
                 "repo": "pushup",
-                "stars": 853,
+                "stars": 852,
                 "topics": [
                   "go",
                   "http",
@@ -1618,7 +1618,7 @@
                 "open_issues": 14,
                 "owner": "adamchainz",
                 "repo": "django-htmx",
-                "stars": 2018,
+                "stars": 2019,
                 "topics": [
                   "django"
                 ]
@@ -2453,7 +2453,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T13:24:31.127Z",
+    "last_updated": "2026-10-13T12:52:44.765Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about htmx",
