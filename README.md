@@ -15,7 +15,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ## Official
 
-* [GitHub](https://github.com/bigskysoftware/htmx) ⭐ 49,576 | 🐛 300 | 🌐 JavaScript | 📅 2026-10-22
+* [GitHub](https://github.com/bigskysoftware/htmx) ⭐ 49,564 | 🐛 303 | 🌐 JavaScript | 📅 2026-10-22
 * [Website](https://htmx.org)
 * [Twitter](https://twitter.com/htmx_org?lang=en)
 * [Discord Server](https://htmx.org/discord)
@@ -77,9 +77,9 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 ## Tools
 
 * [django-htmx](https://github.com/adamchainz/django-htmx) ⭐ 2,016 | 🐛 14 | 🌐 JavaScript | 📅 2026-10-15 - Django integration.
-* [DelphiMVCFramework](https://github.com/danieleteti/delphimvcframework) ⭐ 1,417 | 🐛 12 | 🌐 Pascal | 📅 2026-10-20 - DelphiMVCFramework integration support for htmx (class helper in MVCFramework.HTMX)
-* [Clace](https://github.com/claceio/clace) ⭐ 984 | 🐛 0 | 🌐 Go | 📅 2026-10-21 - Hypermedia based internal tools for teams. Application server for containerized apps.
-* [ludic](https://github.com/paveldedik/ludic) ⭐ 893 | 🐛 20 | 🌐 Python | 📅 2026-09-21 - Lightweight framework for building dynamic HTML pages in pure Python with HTMX.
+* [DelphiMVCFramework](https://github.com/danieleteti/delphimvcframework) ⭐ 1,418 | 🐛 14 | 🌐 Pascal | 📅 2026-10-20 - DelphiMVCFramework integration support for htmx (class helper in MVCFramework.HTMX)
+* [Clace](https://github.com/claceio/clace) ⭐ 986 | 🐛 0 | 🌐 Go | 📅 2026-10-23 - Hypermedia based internal tools for teams. Application server for containerized apps.
+* [ludic](https://github.com/paveldedik/ludic) ⭐ 894 | 🐛 20 | 🌐 Python | 📅 2026-09-21 - Lightweight framework for building dynamic HTML pages in pure Python with HTMX.
 * [htmx-go](https://github.com/angelofallars/htmx-go) ⭐ 807 | 🐛 2 | 🌐 Go | 📅 2024-11-30 - Go integration compatible with `net/http`, prioritizing type safety.
 * [htmx-lsp](https://github.com/ThePrimeagen/htmx-lsp) ⭐ 708 | 🐛 11 | 🌐 Rust | 📅 2025-10-18 - Language Server Protocol for Neovim to supercharge HTMX development
 * [htmx-spring-boot](https://github.com/wimdeblauwe/htmx-spring-boot) ⭐ 690 | 🐛 2 | 🌐 Java | 📅 2026-10-18 - Spring Boot support library for htmx
@@ -203,7 +203,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ### Java
 
-* [Spring-Boot HTMX](https://github.com/wiverson/htmx-demo) ⭐ 328 | 🐛 2 | 🌐 Java | 📅 2025-02-02
+* [Spring-Boot HTMX](https://github.com/wiverson/htmx-demo) ⭐ 327 | 🐛 2 | 🌐 Java | 📅 2025-02-02
 * [Frisson: Easy, Powerful Full Stack with Spring Boot and HTMX](https://github.com/ChangeNode/frisson) ⭐ 206 | 🐛 5 | 🌐 HTML | 📅 2023-04-04
 * [Spring Boot HTMX integration](https://github.com/odrotbohm/spring-playground/tree/main/htmx-spring-boot) ⭐ 102 | 🐛 2 | 🌐 Java | 📅 2026-03-11
 * [TodoWebflux Spring Boot HTMX demo](https://github.com/dsyer/todowebflux) ⭐ 23 | 🐛 4 | 🌐 Java | 📅 2024-07-10
@@ -293,4 +293,4 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
