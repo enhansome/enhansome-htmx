@@ -15,7 +15,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ## Official
 
-* [GitHub](https://github.com/bigskysoftware/htmx) ⭐ 49,564 | 🐛 303 | 🌐 JavaScript | 📅 2026-10-22
+* [GitHub](https://github.com/bigskysoftware/htmx) ⭐ 49,569 | 🐛 304 | 🌐 JavaScript | 📅 2026-10-22
 * [Website](https://htmx.org)
 * [Twitter](https://twitter.com/htmx_org?lang=en)
 * [Discord Server](https://htmx.org/discord)
@@ -77,8 +77,8 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 ## Tools
 
 * [django-htmx](https://github.com/adamchainz/django-htmx) ⭐ 2,016 | 🐛 14 | 🌐 JavaScript | 📅 2026-10-15 - Django integration.
-* [DelphiMVCFramework](https://github.com/danieleteti/delphimvcframework) ⭐ 1,418 | 🐛 14 | 🌐 Pascal | 📅 2026-10-20 - DelphiMVCFramework integration support for htmx (class helper in MVCFramework.HTMX)
-* [Clace](https://github.com/claceio/clace) ⭐ 986 | 🐛 0 | 🌐 Go | 📅 2026-10-23 - Hypermedia based internal tools for teams. Application server for containerized apps.
+* [DelphiMVCFramework](https://github.com/danieleteti/delphimvcframework) ⭐ 1,419 | 🐛 14 | 🌐 Pascal | 📅 2026-10-20 - DelphiMVCFramework integration support for htmx (class helper in MVCFramework.HTMX)
+* [Clace](https://github.com/claceio/clace) ⭐ 986 | 🐛 0 | 🌐 Go | 📅 2026-10-24 - Hypermedia based internal tools for teams. Application server for containerized apps.
 * [ludic](https://github.com/paveldedik/ludic) ⭐ 894 | 🐛 20 | 🌐 Python | 📅 2026-09-21 - Lightweight framework for building dynamic HTML pages in pure Python with HTMX.
 * [htmx-go](https://github.com/angelofallars/htmx-go) ⭐ 807 | 🐛 2 | 🌐 Go | 📅 2024-11-30 - Go integration compatible with `net/http`, prioritizing type safety.
 * [htmx-lsp](https://github.com/ThePrimeagen/htmx-lsp) ⭐ 708 | 🐛 11 | 🌐 Rust | 📅 2025-10-18 - Language Server Protocol for Neovim to supercharge HTMX development
@@ -293,4 +293,4 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
