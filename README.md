@@ -15,7 +15,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ## Official
 
-* [GitHub](https://github.com/bigskysoftware/htmx) ⭐ 49,576 | 🐛 309 | 🌐 JavaScript | 📅 2026-10-27
+* [GitHub](https://github.com/bigskysoftware/htmx) ⭐ 49,578 | 🐛 303 | 🌐 JavaScript | 📅 2026-10-29
 * [Website](https://htmx.org)
 * [Twitter](https://twitter.com/htmx_org?lang=en)
 * [Discord Server](https://htmx.org/discord)
@@ -78,14 +78,14 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 * [django-htmx](https://github.com/adamchainz/django-htmx) ⭐ 2,017 | 🐛 14 | 🌐 JavaScript | 📅 2026-10-26 - Django integration.
 * [DelphiMVCFramework](https://github.com/danieleteti/delphimvcframework) ⭐ 1,420 | 🐛 14 | 🌐 Pascal | 📅 2026-10-24 - DelphiMVCFramework integration support for htmx (class helper in MVCFramework.HTMX)
-* [Clace](https://github.com/claceio/clace) ⭐ 991 | 🐛 0 | 🌐 Go | 📅 2026-10-28 - Hypermedia based internal tools for teams. Application server for containerized apps.
-* [ludic](https://github.com/paveldedik/ludic) ⭐ 894 | 🐛 20 | 🌐 Python | 📅 2026-09-21 - Lightweight framework for building dynamic HTML pages in pure Python with HTMX.
+* [Clace](https://github.com/claceio/clace) ⭐ 991 | 🐛 0 | 🌐 Go | 📅 2026-10-29 - Hypermedia based internal tools for teams. Application server for containerized apps.
+* [ludic](https://github.com/paveldedik/ludic) ⭐ 895 | 🐛 20 | 🌐 Python | 📅 2026-09-21 - Lightweight framework for building dynamic HTML pages in pure Python with HTMX.
 * [htmx-go](https://github.com/angelofallars/htmx-go) ⭐ 807 | 🐛 2 | 🌐 Go | 📅 2024-11-30 - Go integration compatible with `net/http`, prioritizing type safety.
-* [htmx-lsp](https://github.com/ThePrimeagen/htmx-lsp) ⭐ 707 | 🐛 11 | 🌐 Rust | 📅 2025-10-18 - Language Server Protocol for Neovim to supercharge HTMX development
-* [htmx-spring-boot](https://github.com/wimdeblauwe/htmx-spring-boot) ⭐ 690 | 🐛 1 | 🌐 Java | 📅 2026-10-26 - Spring Boot support library for htmx
+* [htmx-lsp](https://github.com/ThePrimeagen/htmx-lsp) ⭐ 708 | 🐛 11 | 🌐 Rust | 📅 2025-10-18 - Language Server Protocol for Neovim to supercharge HTMX development
+* [htmx-spring-boot](https://github.com/wimdeblauwe/htmx-spring-boot) ⭐ 691 | 🐛 1 | 🌐 Java | 📅 2026-10-26 - Spring Boot support library for htmx
 * [htmx.net](https://github.com/khalidabuhakmeh/htmx.net) ⭐ 579 | 🐛 4 | 🌐 C# | 📅 2026-03-02 - ASP.NET Core integration (Htmx Extension Methods, TagHelpers, Htmx.Config)
 * [elem-go](https://github.com/chasefleming/elem-go) ⭐ 366 | 🐛 6 | 🌐 Go | 📅 2026-10-24 - A Go library for building HTML with htmx.
-* [laravel-htmx](https://github.com/mauricius/laravel-htmx) ⭐ 360 | 🐛 3 | 🌐 PHP | 📅 2026-03-19 - Laravel integration for htmx.
+* [laravel-htmx](https://github.com/mauricius/laravel-htmx) ⭐ 361 | 🐛 3 | 🌐 PHP | 📅 2026-03-19 - Laravel integration for htmx.
 * [htmx-debugger](https://github.com/NomadicDaddy/htmx-debugger) ⭐ 146 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-10 - A Chrome extension for debugging and viewing htmx events and attributes
 * [htmx-rails](https://github.com/rootstrap/htmx-rails) ⭐ 119 | 🐛 3 | 🌐 Ruby | 📅 2024-07-12 - Rails integration.
 * [codeigniter-htmx](https://github.com/michalsn/codeigniter-htmx) ⭐ 83 | 🐛 2 | 🌐 PHP | 📅 2026-09-02 - CodeIgniter 4 framework integration.
@@ -217,7 +217,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 ### Python-based (Django, FastAPI, Flask)
 
 * [django-htmx example app](https://github.com/adamchainz/django-htmx/tree/main/example) ⭐ 2,017 | 🐛 14 | 🌐 JavaScript | 📅 2026-10-26 - Example Django app showing a few patterns.
-* [awesome-python-htmx](https://github.com/PyHAT-stack/awesome-python-htmx) ⭐ 1,334 | 🐛 14 | 📅 2024-08-20 - Awesome list for htmx specific to the Python ecosystem.
+* [awesome-python-htmx](https://github.com/PyHAT-stack/awesome-python-htmx) ⭐ 1,335 | 🐛 14 | 📅 2024-08-20 - Awesome list for htmx specific to the Python ecosystem.
 * [fast-htmx](https://github.com/marty331/fasthtmx) ⭐ 275 | 🐛 3 | 🌐 CSS | 📅 2024-01-15 - Fast-HTMX is a demo project of FastAPI an HTMX. The purpose of this project is to illustrate how to create a website with no JavaScript, using only HTML, CSS, and Python.
 * [django-htmx-alpine](https://github.com/arcanemachine/django-htmx-alpine/) ⭐ 197 | 🐛 0 | 🌐 CSS | 📅 2022-03-28 - Basic todo list with Django, HTMX, and Alpine. Features a [live demonstration](https://django-htmx-alpine.nicholasmoen.com/).
 * [django-htmx-fun](https://github.com/guettli/django-htmx-fun) ⭐ 193 | 🐛 0 | 🌐 Python | 📅 2021-11-22 - A small Django application to advertise the fun htmx can bring you.
@@ -293,4 +293,4 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
