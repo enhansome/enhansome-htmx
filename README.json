@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-10-30T14:22:09Z",
-            "open_issues": 297,
+            "open_issues": 299,
             "owner": "bigskysoftware",
             "repo": "htmx",
-            "stars": 49576,
+            "stars": 49580,
             "topics": [
               "hateoas",
               "html",
@@ -80,7 +80,7 @@
             "open_issues": 16,
             "owner": "adamchainz",
             "repo": "django-htmx",
-            "stars": 2017,
+            "stars": 2018,
             "topics": [
               "django"
             ]
@@ -138,7 +138,7 @@
             "id": 627567877,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T23:51:06Z",
+            "last_commit": "2026-10-31T21:04:54Z",
             "open_issues": 0,
             "owner": "openrundev",
             "repo": "openrun",
@@ -1618,7 +1618,7 @@
                 "open_issues": 16,
                 "owner": "adamchainz",
                 "repo": "django-htmx",
-                "stars": 2017,
+                "stars": 2018,
                 "topics": [
                   "django"
                 ]
@@ -2167,7 +2167,7 @@
                 "id": 704589783,
                 "language": "Pascal",
                 "license": "Apache-2.0",
-                "last_commit": "2026-07-03T13:14:22Z",
+                "last_commit": "2026-10-31T14:00:06Z",
                 "open_issues": 0,
                 "owner": "danieleteti",
                 "repo": "delphi-dmvcframework-htmx-todo",
@@ -2453,7 +2453,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T11:03:32.024Z",
+    "last_updated": "2026-11-01T11:57:13.686Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about htmx",

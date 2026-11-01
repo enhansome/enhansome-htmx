@@ -15,7 +15,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ## Official
 
-* [GitHub](https://github.com/bigskysoftware/htmx) ⭐ 49,576 | 🐛 297 | 🌐 JavaScript | 📅 2026-10-30
+* [GitHub](https://github.com/bigskysoftware/htmx) ⭐ 49,580 | 🐛 299 | 🌐 JavaScript | 📅 2026-10-30
 * [Website](https://htmx.org)
 * [Twitter](https://twitter.com/htmx_org?lang=en)
 * [Discord Server](https://htmx.org/discord)
@@ -76,9 +76,9 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ## Tools
 
-* [django-htmx](https://github.com/adamchainz/django-htmx) ⭐ 2,017 | 🐛 16 | 🌐 JavaScript | 📅 2026-10-26 - Django integration.
+* [django-htmx](https://github.com/adamchainz/django-htmx) ⭐ 2,018 | 🐛 16 | 🌐 JavaScript | 📅 2026-10-26 - Django integration.
 * [DelphiMVCFramework](https://github.com/danieleteti/delphimvcframework) ⭐ 1,420 | 🐛 12 | 🌐 Pascal | 📅 2026-10-29 - DelphiMVCFramework integration support for htmx (class helper in MVCFramework.HTMX)
-* [Clace](https://github.com/claceio/clace) ⭐ 992 | 🐛 0 | 🌐 Go | 📅 2026-10-30 - Hypermedia based internal tools for teams. Application server for containerized apps.
+* [Clace](https://github.com/claceio/clace) ⭐ 992 | 🐛 0 | 🌐 Go | 📅 2026-10-31 - Hypermedia based internal tools for teams. Application server for containerized apps.
 * [ludic](https://github.com/paveldedik/ludic) ⭐ 895 | 🐛 20 | 🌐 Python | 📅 2026-09-21 - Lightweight framework for building dynamic HTML pages in pure Python with HTMX.
 * [htmx-go](https://github.com/angelofallars/htmx-go) ⭐ 807 | 🐛 2 | 🌐 Go | 📅 2024-11-30 - Go integration compatible with `net/http`, prioritizing type safety.
 * [htmx-lsp](https://github.com/ThePrimeagen/htmx-lsp) ⭐ 708 | 🐛 11 | 🌐 Rust | 📅 2025-10-18 - Language Server Protocol for Neovim to supercharge HTMX development
@@ -216,7 +216,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ### Python-based (Django, FastAPI, Flask)
 
-* [django-htmx example app](https://github.com/adamchainz/django-htmx/tree/main/example) ⭐ 2,017 | 🐛 16 | 🌐 JavaScript | 📅 2026-10-26 - Example Django app showing a few patterns.
+* [django-htmx example app](https://github.com/adamchainz/django-htmx/tree/main/example) ⭐ 2,018 | 🐛 16 | 🌐 JavaScript | 📅 2026-10-26 - Example Django app showing a few patterns.
 * [awesome-python-htmx](https://github.com/PyHAT-stack/awesome-python-htmx) ⭐ 1,335 | 🐛 14 | 📅 2024-08-20 - Awesome list for htmx specific to the Python ecosystem.
 * [fast-htmx](https://github.com/marty331/fasthtmx) ⭐ 275 | 🐛 3 | 🌐 CSS | 📅 2024-01-15 - Fast-HTMX is a demo project of FastAPI an HTMX. The purpose of this project is to illustrate how to create a website with no JavaScript, using only HTML, CSS, and Python.
 * [django-htmx-alpine](https://github.com/arcanemachine/django-htmx-alpine/) ⭐ 197 | 🐛 0 | 🌐 CSS | 📅 2022-03-28 - Basic todo list with Django, HTMX, and Alpine. Features a [live demonstration](https://django-htmx-alpine.nicholasmoen.com/).
@@ -251,7 +251,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ### Delphi
 
-* [dmvcframework-todo-app](https://github.com/danieleteti/delphi-dmvcframework-htmx-todo) ⭐ 21 | 🐛 0 | 🌐 Pascal | 📅 2026-07-03 - DelphiMVCFramework to-do app with HTMX and TemplatePro templates
+* [dmvcframework-todo-app](https://github.com/danieleteti/delphi-dmvcframework-htmx-todo) ⭐ 21 | 🐛 0 | 🌐 Pascal | 📅 2026-10-31 - DelphiMVCFramework to-do app with HTMX and TemplatePro templates
 
 ### Zig
 
@@ -293,4 +293,4 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
