@@ -15,7 +15,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ## Official
 
-* [GitHub](https://github.com/bigskysoftware/htmx) ⭐ 49,598 | 🐛 302 | 🌐 JavaScript | 📅 2026-11-01
+* [GitHub](https://github.com/bigskysoftware/htmx) ⭐ 49,607 | 🐛 306 | 🌐 JavaScript | 📅 2026-11-01
 * [Website](https://htmx.org)
 * [Twitter](https://twitter.com/htmx_org?lang=en)
 * [Discord Server](https://htmx.org/discord)
@@ -78,8 +78,8 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 * [django-htmx](https://github.com/adamchainz/django-htmx) ⭐ 2,017 | 🐛 15 | 🌐 JavaScript | 📅 2026-11-02 - Django integration.
 * [DelphiMVCFramework](https://github.com/danieleteti/delphimvcframework) ⭐ 1,420 | 🐛 12 | 🌐 Pascal | 📅 2026-10-29 - DelphiMVCFramework integration support for htmx (class helper in MVCFramework.HTMX)
-* [Clace](https://github.com/claceio/clace) ⭐ 994 | 🐛 0 | 🌐 Go | 📅 2026-11-03 - Hypermedia based internal tools for teams. Application server for containerized apps.
-* [ludic](https://github.com/paveldedik/ludic) ⭐ 895 | 🐛 20 | 🌐 Python | 📅 2026-09-21 - Lightweight framework for building dynamic HTML pages in pure Python with HTMX.
+* [Clace](https://github.com/claceio/clace) ⭐ 995 | 🐛 0 | 🌐 Go | 📅 2026-11-04 - Hypermedia based internal tools for teams. Application server for containerized apps.
+* [ludic](https://github.com/paveldedik/ludic) ⭐ 895 | 🐛 19 | 🌐 Python | 📅 2026-11-04 - Lightweight framework for building dynamic HTML pages in pure Python with HTMX.
 * [htmx-go](https://github.com/angelofallars/htmx-go) ⭐ 807 | 🐛 2 | 🌐 Go | 📅 2024-11-30 - Go integration compatible with `net/http`, prioritizing type safety.
 * [htmx-lsp](https://github.com/ThePrimeagen/htmx-lsp) ⭐ 708 | 🐛 11 | 🌐 Rust | 📅 2025-10-18 - Language Server Protocol for Neovim to supercharge HTMX development
 * [htmx-spring-boot](https://github.com/wimdeblauwe/htmx-spring-boot) ⭐ 690 | 🐛 1 | 🌐 Java | 📅 2026-10-26 - Spring Boot support library for htmx
@@ -293,4 +293,4 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
