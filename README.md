@@ -15,7 +15,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ## Official
 
-* [GitHub](https://github.com/bigskysoftware/htmx) ⭐ 49,607 | 🐛 306 | 🌐 JavaScript | 📅 2026-11-01
+* [GitHub](https://github.com/bigskysoftware/htmx) ⭐ 49,613 | 🐛 306 | 🌐 JavaScript | 📅 2026-11-04
 * [Website](https://htmx.org)
 * [Twitter](https://twitter.com/htmx_org?lang=en)
 * [Discord Server](https://htmx.org/discord)
@@ -77,25 +77,28 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 ## Tools
 
 * [django-htmx](https://github.com/adamchainz/django-htmx) ⭐ 2,017 | 🐛 15 | 🌐 JavaScript | 📅 2026-11-02 - Django integration.
-* [DelphiMVCFramework](https://github.com/danieleteti/delphimvcframework) ⭐ 1,420 | 🐛 12 | 🌐 Pascal | 📅 2026-10-29 - DelphiMVCFramework integration support for htmx (class helper in MVCFramework.HTMX)
-* [Clace](https://github.com/claceio/clace) ⭐ 995 | 🐛 0 | 🌐 Go | 📅 2026-11-04 - Hypermedia based internal tools for teams. Application server for containerized apps.
-* [ludic](https://github.com/paveldedik/ludic) ⭐ 895 | 🐛 19 | 🌐 Python | 📅 2026-11-04 - Lightweight framework for building dynamic HTML pages in pure Python with HTMX.
+* [DelphiMVCFramework](https://github.com/danieleteti/delphimvcframework) ⭐ 1,420 | 🐛 13 | 🌐 Pascal | 📅 2026-10-29 - DelphiMVCFramework integration support for htmx (class helper in MVCFramework.HTMX)
+* [Clace](https://github.com/claceio/clace) ⭐ 994 | 🐛 0 | 🌐 Go | 📅 2026-11-05 - Hypermedia based internal tools for teams. Application server for containerized apps.
+* [ludic](https://github.com/paveldedik/ludic) ⭐ 895 | 🐛 18 | 🌐 Python | 📅 2026-11-05 - Lightweight framework for building dynamic HTML pages in pure Python with HTMX.
 * [htmx-go](https://github.com/angelofallars/htmx-go) ⭐ 807 | 🐛 2 | 🌐 Go | 📅 2024-11-30 - Go integration compatible with `net/http`, prioritizing type safety.
 * [htmx-lsp](https://github.com/ThePrimeagen/htmx-lsp) ⭐ 708 | 🐛 11 | 🌐 Rust | 📅 2025-10-18 - Language Server Protocol for Neovim to supercharge HTMX development
 * [htmx-spring-boot](https://github.com/wimdeblauwe/htmx-spring-boot) ⭐ 690 | 🐛 1 | 🌐 Java | 📅 2026-10-26 - Spring Boot support library for htmx
-* [htmx.net](https://github.com/khalidabuhakmeh/htmx.net) ⭐ 580 | 🐛 4 | 🌐 C# | 📅 2026-11-02 - ASP.NET Core integration (Htmx Extension Methods, TagHelpers, Htmx.Config)
+* [htmx.net](https://github.com/khalidabuhakmeh/htmx.net) ⭐ 580 | 🐛 4 | 🌐 C# | 📅 2026-11-04 - ASP.NET Core integration (Htmx Extension Methods, TagHelpers, Htmx.Config)
 * [elem-go](https://github.com/chasefleming/elem-go) ⭐ 366 | 🐛 6 | 🌐 Go | 📅 2026-10-30 - A Go library for building HTML with htmx.
-* [laravel-htmx](https://github.com/mauricius/laravel-htmx) ⭐ 361 | 🐛 3 | 🌐 PHP | 📅 2026-03-19 - Laravel integration for htmx.
-* [htmx-debugger](https://github.com/NomadicDaddy/htmx-debugger) ⭐ 146 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-10 - A Chrome extension for debugging and viewing htmx events and attributes
+* [laravel-htmx](https://github.com/mauricius/laravel-htmx) ⭐ 362 | 🐛 3 | 🌐 PHP | 📅 2026-03-19 - Laravel integration for htmx.
+* [sprae](https://github.com/dy/sprae) ⭐ 213 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-17 - Client-side reactivity in HTML attributes, to pair with htmx for local UI state without a build step.
+* [htmx-debugger](https://github.com/NomadicDaddy/htmx-debugger) ⭐ 146 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-05 - A Chrome extension for debugging and viewing htmx events and attributes
 * [htmx-rails](https://github.com/rootstrap/htmx-rails) ⭐ 119 | 🐛 3 | 🌐 Ruby | 📅 2024-07-12 - Rails integration.
 * [codeigniter-htmx](https://github.com/michalsn/codeigniter-htmx) ⭐ 83 | 🐛 2 | 🌐 PHP | 📅 2026-09-02 - CodeIgniter 4 framework integration.
 * [Giraffe.Htmx](https://github.com/bit-badger/Giraffe.Htmx) ⭐ 80 | 🐛 0 | 🌐 F# | 📅 2024-05-23 - Extensions for Giraffe to support development with htmx.
 * [htmx-ext-shoelace](https://github.com/benopotamus/htmx-ext-shoelace) ⭐ 76 | 🐛 3 | 🌐 HTML | 📅 2025-02-15 - An extension to make Shoelace elements work seamlessly with HTMX.
+* [go-partial](https://github.com/donseba/go-partial) ⭐ 24 | 🐛 0 | 🌐 Go | 📅 2026-11-01 - Go integration that renders a full page or only the targeted partial from the same html/template tree, for htmx 2 and 4.
 * [swift-http-types-htmx](https://github.com/alephao/swift-http-types-htmx) ⭐ 18 | 🐛 0 | 🌐 Swift | 📅 2024-09-18 - HTMX extensions for swift-http-types
 * [CakePHP-htmx](https://github.com/zunnu/cake-htmx) ⭐ 18 | 🐛 0 | 🌐 PHP | 📅 2025-12-03 - CakePHP integration for Htmx.
 * [django-js-lib-htmx](https://github.com/nonZero/django-js-lib-htmx) ⭐ 7 | 🐛 1 | 🌐 Shell | 📅 2024-10-09 - Django package containing the htmx scripts.
 * [HTMX for ⚡️ fiber](https://github.com/ZEISS/fiber-htmx) ⭐ 6 | 🐛 0 | 🌐 CSS | 📅 2026-11-03 - A middleware to render [HTMX](https://github.com/katallaxie/htmx) ⭐ 3 | 🐛 0 | 🌐 CSS | 📅 2026-11-03 components.
 * [HTMX](https://github.com/katallaxie/htmx) ⭐ 3 | 🐛 0 | 🌐 CSS | 📅 2026-11-03 🔨Write HTML and HTMX applications in pure Go and a lot more.
+* [htmx-ext-layers](https://github.com/bgurmendi/htmx-ext-layers) ⭐ 2 | 🐛 0 | 🌐 HTML | 📅 2026-06-22 - An extension that adds stacked modal `<dialog>` "layers", multi-step wizards and returning results to the opener, driven declaratively from HTML attributes or response headers.
 * [Sprig](https://putyourlightson.com/plugins/sprig) - Craft CMS plugin.
 * [simpleui](https://whamtet.github.io/simpleui/) - Clojure backend helpers for htmx.
 * [IntelliJ htmx plugin](https://plugins.jetbrains.com/plugin/20588-htmx-support)
@@ -293,4 +296,4 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._

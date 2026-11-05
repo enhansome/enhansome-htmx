@@ -15,11 +15,11 @@
             "id": 255378816,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-01T23:12:53Z",
+            "last_commit": "2026-11-04T13:30:09Z",
             "open_issues": 306,
             "owner": "bigskysoftware",
             "repo": "htmx",
-            "stars": 49607,
+            "stars": 49613,
             "topics": [
               "hateoas",
               "html",
@@ -100,7 +100,7 @@
             "language": "Pascal",
             "license": "Apache-2.0",
             "last_commit": "2026-10-29T21:31:24Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "danieleteti",
             "repo": "delphimvcframework",
             "stars": 1420,
@@ -138,11 +138,11 @@
             "id": 627567877,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T06:18:49Z",
+            "last_commit": "2026-11-05T00:10:13Z",
             "open_issues": 0,
             "owner": "openrundev",
             "repo": "openrun",
-            "stars": 995,
+            "stars": 994,
             "topics": [
               "appserver",
               "containers",
@@ -173,8 +173,8 @@
             "id": 769005895,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-04T11:45:53Z",
-            "open_issues": 19,
+            "last_commit": "2026-11-05T09:45:13Z",
+            "open_issues": 18,
             "owner": "getludic",
             "repo": "ludic",
             "stars": 895,
@@ -269,7 +269,7 @@
             "id": 391176207,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-02T19:12:46Z",
+            "last_commit": "2026-11-04T15:45:05Z",
             "open_issues": 4,
             "owner": "khalidabuhakmeh",
             "repo": "Htmx.Net",
@@ -326,10 +326,52 @@
             "open_issues": 3,
             "owner": "mauricius",
             "repo": "laravel-htmx",
-            "stars": 361,
+            "stars": 362,
             "topics": []
           },
           "first_seen": "2026-08-28T17:37:40.528Z"
+        },
+        {
+          "node_type": "item",
+          "title": "sprae",
+          "description": "Client-side reactivity in HTML attributes, to pair with htmx for local UI state without a build step.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Reactive HTML attributes. No build step, signals-based, CSP-safe.",
+            "homepage": "http://sprae.js.org/",
+            "id": 565310184,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-10-17T21:03:06Z",
+            "open_issues": 0,
+            "owner": "dy",
+            "repo": "sprae",
+            "stars": 213,
+            "topics": [
+              "alpine-alternative",
+              "alpinejs",
+              "csp",
+              "declarative",
+              "html",
+              "hydration",
+              "island-architecture",
+              "javascript-library",
+              "jsx",
+              "manifest-v3",
+              "no-build-step",
+              "partial-hydration",
+              "petite-vue",
+              "preact-signals",
+              "progressive-enhancement",
+              "reactive",
+              "reactive-attributes",
+              "signals",
+              "ssr",
+              "template-parts"
+            ]
+          },
+          "first_seen": "2026-11-05T13:25:27.767Z"
         },
         {
           "node_type": "item",
@@ -343,7 +385,7 @@
             "id": 866105850,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-10T08:59:32Z",
+            "last_commit": "2026-11-05T03:38:43Z",
             "open_issues": 0,
             "owner": "NomadicDaddy",
             "repo": "htmx-debugger",
@@ -455,6 +497,36 @@
             ]
           },
           "first_seen": "2026-08-28T17:37:40.528Z"
+        },
+        {
+          "node_type": "item",
+          "title": "go-partial",
+          "description": "Go integration that renders a full page or only the targeted partial from the same html/template tree, for htmx 2 and 4.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Go partial is a library to render full or partial pages based on headers set by HTMX, Turbo, Unpoly or Standalone library",
+            "homepage": "https://docs.gowebthings.com/go-partial",
+            "id": 874906548,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2026-11-01T21:26:34Z",
+            "open_issues": 0,
+            "owner": "donseba",
+            "repo": "go-partial",
+            "stars": 24,
+            "topics": [
+              "golang",
+              "htmx",
+              "hypermedia",
+              "javascript",
+              "partial-views",
+              "stimulusjs",
+              "turbo",
+              "unpoly"
+            ]
+          },
+          "first_seen": "2026-11-05T13:25:27.767Z"
         },
         {
           "node_type": "item",
@@ -575,6 +647,27 @@
             "topics": []
           },
           "first_seen": "2026-08-28T17:37:40.528Z"
+        },
+        {
+          "node_type": "item",
+          "title": "htmx-ext-layers",
+          "description": "An extension that adds stacked modal \"layers\", multi-step wizards and returning results to the opener, driven declaratively from HTML attributes or response headers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An htmx extension that adds stacked dialog layers to your application.",
+            "homepage": null,
+            "id": 1265341664,
+            "language": "HTML",
+            "license": "GPL-3.0",
+            "last_commit": "2026-06-22T11:30:28Z",
+            "open_issues": 0,
+            "owner": "bgurmendi",
+            "repo": "htmx-ext-layers",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-11-05T13:25:27.767Z"
         }
       ],
       "title": "Tools"
@@ -2453,7 +2546,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T13:11:37.712Z",
+    "last_updated": "2026-11-05T13:25:27.767Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about htmx",
@@ -2461,8 +2554,8 @@
       "id": 345000191,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2025-06-06T03:57:52Z",
-      "open_issues": 10,
+      "last_commit": "2026-11-05T05:47:31Z",
+      "open_issues": 8,
       "owner": "rajasegar",
       "repo": "awesome-htmx",
       "stars": 2325,
@@ -2473,7 +2566,7 @@
         "htmx"
       ]
     },
-    "original_repository_sha": "5cafd83360ffd1b9a8e2a3ac94869d02cea4e0b7",
+    "original_repository_sha": "f6d9f21e01cc7bc05c16f87d4a59fadf31fc36be",
     "enhanced_repository": "enhansome/enhansome-htmx",
     "enhanced_repository_description": null,
     "title": "Awesome Htmx with stars"
