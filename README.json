@@ -19,7 +19,7 @@
             "open_issues": 306,
             "owner": "bigskysoftware",
             "repo": "htmx",
-            "stars": 49613,
+            "stars": 49615,
             "topics": [
               "hateoas",
               "html",
@@ -138,7 +138,7 @@
             "id": 627567877,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-05T00:10:13Z",
+            "last_commit": "2026-11-05T21:22:16Z",
             "open_issues": 0,
             "owner": "openrundev",
             "repo": "openrun",
@@ -1306,7 +1306,7 @@
                 "open_issues": 2,
                 "owner": "mikestefanello",
                 "repo": "pagoda",
-                "stars": 2960,
+                "stars": 2961,
                 "topics": [
                   "admin",
                   "admin-dashboard",
@@ -1368,8 +1368,8 @@
                 "id": 600389720,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-01T21:27:26Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-05T23:04:57Z",
+                "open_issues": 0,
                 "owner": "donseba",
                 "repo": "go-htmx",
                 "stars": 602,
@@ -1752,10 +1752,10 @@
                 "language": "CSS",
                 "license": null,
                 "last_commit": "2024-01-15T16:41:39Z",
-                "open_issues": 3,
+                "open_issues": 2,
                 "owner": "marty331",
                 "repo": "fasthtmx",
-                "stars": 275,
+                "stars": 274,
                 "topics": [
                   "fastapi",
                   "hactoberfest",
@@ -2546,7 +2546,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T13:25:27.767Z",
+    "last_updated": "2026-11-06T13:08:22.786Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about htmx",
