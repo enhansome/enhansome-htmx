@@ -15,7 +15,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ## Official
 
-* [GitHub](https://github.com/bigskysoftware/htmx) ⭐ 49,615 | 🐛 306 | 🌐 JavaScript | 📅 2026-11-04
+* [GitHub](https://github.com/bigskysoftware/htmx) ⭐ 49,611 | 🐛 307 | 🌐 JavaScript | 📅 2026-11-06
 * [Website](https://htmx.org)
 * [Twitter](https://twitter.com/htmx_org?lang=en)
 * [Discord Server](https://htmx.org/discord)
@@ -77,8 +77,8 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 ## Tools
 
 * [django-htmx](https://github.com/adamchainz/django-htmx) ⭐ 2,017 | 🐛 15 | 🌐 JavaScript | 📅 2026-11-02 - Django integration.
-* [DelphiMVCFramework](https://github.com/danieleteti/delphimvcframework) ⭐ 1,420 | 🐛 13 | 🌐 Pascal | 📅 2026-10-29 - DelphiMVCFramework integration support for htmx (class helper in MVCFramework.HTMX)
-* [Clace](https://github.com/claceio/clace) ⭐ 994 | 🐛 0 | 🌐 Go | 📅 2026-11-05 - Hypermedia based internal tools for teams. Application server for containerized apps.
+* [DelphiMVCFramework](https://github.com/danieleteti/delphimvcframework) ⭐ 1,420 | 🐛 12 | 🌐 Pascal | 📅 2026-11-07 - DelphiMVCFramework integration support for htmx (class helper in MVCFramework.HTMX)
+* [Clace](https://github.com/claceio/clace) ⭐ 994 | 🐛 0 | 🌐 Go | 📅 2026-11-07 - Hypermedia based internal tools for teams. Application server for containerized apps.
 * [ludic](https://github.com/paveldedik/ludic) ⭐ 895 | 🐛 18 | 🌐 Python | 📅 2026-11-05 - Lightweight framework for building dynamic HTML pages in pure Python with HTMX.
 * [htmx-go](https://github.com/angelofallars/htmx-go) ⭐ 807 | 🐛 2 | 🌐 Go | 📅 2024-11-30 - Go integration compatible with `net/http`, prioritizing type safety.
 * [htmx-lsp](https://github.com/ThePrimeagen/htmx-lsp) ⭐ 708 | 🐛 11 | 🌐 Rust | 📅 2025-10-18 - Language Server Protocol for Neovim to supercharge HTMX development
@@ -195,7 +195,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ### Go
 
-* [pagoda](https://github.com/mikestefanello/pagoda) ⭐ 2,961 | 🐛 2 | 🌐 Go | 📅 2026-10-30 - Rapid, easy full-stack web development starter kit in Go with HTMX support and examples.
+* [pagoda](https://github.com/mikestefanello/pagoda) ⭐ 2,962 | 🐛 2 | 🌐 Go | 📅 2026-10-30 - Rapid, easy full-stack web development starter kit in Go with HTMX support and examples.
 * [Pushup](https://github.com/adhocteam/pushup) ⭐ 852 | 🐛 49 | 🌐 Go | 📅 2026-07-02 - A server-side, page-oriented web framework for the Go programming language.
 * [GO HTMX](https://github.com/donseba/go-htmx) ⭐ 602 | 🐛 0 | 🌐 Go | 📅 2026-11-05 - Seamless HTMX Integration for Go Applications.
 * [Simple Counter App](https://github.com/chasefleming/elem-go/tree/main/examples/htmx-fiber-counter) ⭐ 366 | 🐛 6 | 🌐 Go | 📅 2026-10-30 - A simple counter app built with `htmx`, `elem-go`, and `Go Fiber`.
@@ -296,4 +296,4 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
