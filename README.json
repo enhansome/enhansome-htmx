@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-11-06T19:23:26Z",
-            "open_issues": 308,
+            "open_issues": 310,
             "owner": "bigskysoftware",
             "repo": "htmx",
-            "stars": 49612,
+            "stars": 49620,
             "topics": [
               "hateoas",
               "html",
@@ -103,7 +103,7 @@
             "open_issues": 12,
             "owner": "danieleteti",
             "repo": "delphimvcframework",
-            "stars": 1420,
+            "stars": 1421,
             "topics": [
               "api",
               "application-server",
@@ -177,7 +177,7 @@
             "open_issues": 18,
             "owner": "getludic",
             "repo": "ludic",
-            "stars": 895,
+            "stars": 896,
             "topics": [
               "async",
               "django",
@@ -273,7 +273,7 @@
             "open_issues": 4,
             "owner": "khalidabuhakmeh",
             "repo": "Htmx.Net",
-            "stars": 581,
+            "stars": 579,
             "topics": [
               "aspnetcore",
               "dotnet",
@@ -618,7 +618,7 @@
             "id": 963482675,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-07T21:40:03Z",
+            "last_commit": "2026-11-09T04:07:25Z",
             "open_issues": 0,
             "owner": "ZEISS",
             "repo": "fiber-htmx",
@@ -639,7 +639,7 @@
             "id": 981653813,
             "language": "CSS",
             "license": "MIT",
-            "last_commit": "2026-11-03T04:05:30Z",
+            "last_commit": "2026-11-09T04:06:49Z",
             "open_issues": 0,
             "owner": "katallaxie",
             "repo": "htmx",
@@ -1306,7 +1306,7 @@
                 "open_issues": 2,
                 "owner": "mikestefanello",
                 "repo": "pagoda",
-                "stars": 2963,
+                "stars": 2964,
                 "topics": [
                   "admin",
                   "admin-dashboard",
@@ -2264,7 +2264,7 @@
                 "open_issues": 0,
                 "owner": "danieleteti",
                 "repo": "delphi-dmvcframework-htmx-todo",
-                "stars": 21,
+                "stars": 22,
                 "topics": [
                   "delphi",
                   "delphimvcframework",
@@ -2546,7 +2546,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T12:05:40.693Z",
+    "last_updated": "2026-11-09T14:12:04.815Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about htmx",
