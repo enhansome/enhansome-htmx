@@ -15,11 +15,11 @@
             "id": 255378816,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-12T13:13:28Z",
-            "open_issues": 314,
+            "last_commit": "2026-11-13T12:49:56Z",
+            "open_issues": 313,
             "owner": "bigskysoftware",
             "repo": "htmx",
-            "stars": 49634,
+            "stars": 49635,
             "topics": [
               "hateoas",
               "html",
@@ -80,7 +80,7 @@
             "open_issues": 16,
             "owner": "adamchainz",
             "repo": "django-htmx",
-            "stars": 2016,
+            "stars": 2017,
             "topics": [
               "django"
             ]
@@ -103,7 +103,7 @@
             "open_issues": 13,
             "owner": "danieleteti",
             "repo": "delphimvcframework",
-            "stars": 1421,
+            "stars": 1422,
             "topics": [
               "api",
               "application-server",
@@ -138,7 +138,7 @@
             "id": 627567877,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T00:19:16Z",
+            "last_commit": "2026-11-13T02:57:06Z",
             "open_issues": 0,
             "owner": "openrundev",
             "repo": "openrun",
@@ -248,7 +248,7 @@
             "open_issues": 1,
             "owner": "wimdeblauwe",
             "repo": "htmx-spring-boot",
-            "stars": 691,
+            "stars": 690,
             "topics": [
               "htmx",
               "spring-boot",
@@ -618,7 +618,7 @@
             "id": 963482675,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-12T04:06:13Z",
+            "last_commit": "2026-11-13T04:06:08Z",
             "open_issues": 0,
             "owner": "ZEISS",
             "repo": "fiber-htmx",
@@ -639,7 +639,7 @@
             "id": 981653813,
             "language": "CSS",
             "license": "MIT",
-            "last_commit": "2026-11-11T04:08:19Z",
+            "last_commit": "2026-11-13T04:05:57Z",
             "open_issues": 0,
             "owner": "katallaxie",
             "repo": "htmx",
@@ -1347,7 +1347,7 @@
                 "open_issues": 49,
                 "owner": "adhocteam",
                 "repo": "pushup",
-                "stars": 852,
+                "stars": 851,
                 "topics": [
                   "go",
                   "http",
@@ -1535,7 +1535,7 @@
                 "open_issues": 2,
                 "owner": "wiverson",
                 "repo": "htmx-demo",
-                "stars": 328,
+                "stars": 327,
                 "topics": [
                   "htmx",
                   "hyperscript",
@@ -1711,7 +1711,7 @@
                 "open_issues": 16,
                 "owner": "adamchainz",
                 "repo": "django-htmx",
-                "stars": 2016,
+                "stars": 2017,
                 "topics": [
                   "django"
                 ]
@@ -2546,7 +2546,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T13:55:46.598Z",
+    "last_updated": "2026-11-13T13:20:33.052Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about htmx",
