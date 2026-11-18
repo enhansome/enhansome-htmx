@@ -15,11 +15,11 @@
             "id": 255378816,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-13T12:49:56Z",
-            "open_issues": 321,
+            "last_commit": "2026-11-18T01:44:31Z",
+            "open_issues": 319,
             "owner": "bigskysoftware",
             "repo": "htmx",
-            "stars": 49648,
+            "stars": 49649,
             "topics": [
               "hateoas",
               "html",
@@ -76,7 +76,7 @@
             "id": 305154838,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-17T10:52:39Z",
+            "last_commit": "2026-11-18T07:38:00Z",
             "open_issues": 21,
             "owner": "adamchainz",
             "repo": "django-htmx",
@@ -142,7 +142,7 @@
             "open_issues": 0,
             "owner": "openrundev",
             "repo": "openrun",
-            "stars": 998,
+            "stars": 999,
             "topics": [
               "appserver",
               "containers",
@@ -273,7 +273,7 @@
             "open_issues": 4,
             "owner": "khalidabuhakmeh",
             "repo": "Htmx.Net",
-            "stars": 579,
+            "stars": 580,
             "topics": [
               "aspnetcore",
               "dotnet",
@@ -1707,7 +1707,7 @@
                 "id": 305154838,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-17T10:52:39Z",
+                "last_commit": "2026-11-18T07:38:00Z",
                 "open_issues": 21,
                 "owner": "adamchainz",
                 "repo": "django-htmx",
@@ -1846,7 +1846,7 @@
                 "open_issues": 0,
                 "owner": "volfpeter",
                 "repo": "fastapi-htmx-tailwind-example",
-                "stars": 109,
+                "stars": 108,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:37:40.528Z"
@@ -2481,8 +2481,8 @@
                 "id": 336095791,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-11-15T18:43:02Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-18T12:24:51Z",
+                "open_issues": 6,
                 "owner": "derkoe",
                 "repo": "quarkus-htmx-todos",
                 "stars": 50,
@@ -2546,7 +2546,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T14:46:33.414Z",
+    "last_updated": "2026-11-18T14:27:20.859Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about htmx",
@@ -2558,7 +2558,7 @@
       "open_issues": 10,
       "owner": "rajasegar",
       "repo": "awesome-htmx",
-      "stars": 2329,
+      "stars": 2330,
       "topics": [
         "awesome",
         "awesome-list",
