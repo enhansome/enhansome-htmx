@@ -15,11 +15,11 @@
             "id": 255378816,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-18T01:44:31Z",
-            "open_issues": 319,
+            "last_commit": "2026-11-19T04:12:01Z",
+            "open_issues": 320,
             "owner": "bigskysoftware",
             "repo": "htmx",
-            "stars": 49649,
+            "stars": 49650,
             "topics": [
               "hateoas",
               "html",
@@ -76,7 +76,7 @@
             "id": 305154838,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-18T07:38:00Z",
+            "last_commit": "2026-11-19T13:03:45Z",
             "open_issues": 21,
             "owner": "adamchainz",
             "repo": "django-htmx",
@@ -142,7 +142,7 @@
             "open_issues": 0,
             "owner": "openrundev",
             "repo": "openrun",
-            "stars": 999,
+            "stars": 1001,
             "topics": [
               "appserver",
               "containers",
@@ -174,10 +174,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-05T09:45:13Z",
-            "open_issues": 18,
+            "open_issues": 17,
             "owner": "getludic",
             "repo": "ludic",
-            "stars": 897,
+            "stars": 898,
             "topics": [
               "async",
               "django",
@@ -273,7 +273,7 @@
             "open_issues": 4,
             "owner": "khalidabuhakmeh",
             "repo": "Htmx.Net",
-            "stars": 580,
+            "stars": 579,
             "topics": [
               "aspnetcore",
               "dotnet",
@@ -466,7 +466,7 @@
             "open_issues": 0,
             "owner": "bit-badger",
             "repo": "Giraffe.Htmx",
-            "stars": 80,
+            "stars": 79,
             "topics": [
               "giraffe",
               "htmx"
@@ -618,7 +618,7 @@
             "id": 963482675,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-13T04:06:08Z",
+            "last_commit": "2026-11-19T04:06:18Z",
             "open_issues": 0,
             "owner": "ZEISS",
             "repo": "fiber-htmx",
@@ -1707,7 +1707,7 @@
                 "id": 305154838,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-18T07:38:00Z",
+                "last_commit": "2026-11-19T13:03:45Z",
                 "open_issues": 21,
                 "owner": "adamchainz",
                 "repo": "django-htmx",
@@ -1734,7 +1734,7 @@
                 "open_issues": 14,
                 "owner": "PyHAT-stack",
                 "repo": "awesome-python-htmx",
-                "stars": 1336,
+                "stars": 1337,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:37:40.528Z"
@@ -2546,7 +2546,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T14:27:20.859Z",
+    "last_updated": "2026-11-19T14:37:16.314Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about htmx",
@@ -2555,10 +2555,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-11-05T05:47:31Z",
-      "open_issues": 10,
+      "open_issues": 11,
       "owner": "rajasegar",
       "repo": "awesome-htmx",
-      "stars": 2330,
+      "stars": 2331,
       "topics": [
         "awesome",
         "awesome-list",
