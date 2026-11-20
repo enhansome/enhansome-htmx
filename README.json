@@ -53,7 +53,7 @@
             "open_issues": 7,
             "owner": "moappi",
             "repo": "json2html",
-            "stars": 642,
+            "stars": 641,
             "topics": []
           },
           "first_seen": "2026-08-28T17:37:40.528Z"
@@ -76,7 +76,7 @@
             "id": 305154838,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-19T13:03:45Z",
+            "last_commit": "2026-11-20T14:10:31Z",
             "open_issues": 21,
             "owner": "adamchainz",
             "repo": "django-htmx",
@@ -103,7 +103,7 @@
             "open_issues": 10,
             "owner": "danieleteti",
             "repo": "delphimvcframework",
-            "stars": 1422,
+            "stars": 1421,
             "topics": [
               "api",
               "application-server",
@@ -138,11 +138,11 @@
             "id": 627567877,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T03:31:48Z",
+            "last_commit": "2026-11-19T22:47:06Z",
             "open_issues": 0,
             "owner": "openrundev",
             "repo": "openrun",
-            "stars": 1001,
+            "stars": 1002,
             "topics": [
               "appserver",
               "containers",
@@ -177,7 +177,7 @@
             "open_issues": 17,
             "owner": "getludic",
             "repo": "ludic",
-            "stars": 898,
+            "stars": 897,
             "topics": [
               "async",
               "django",
@@ -273,7 +273,7 @@
             "open_issues": 4,
             "owner": "khalidabuhakmeh",
             "repo": "Htmx.Net",
-            "stars": 579,
+            "stars": 578,
             "topics": [
               "aspnetcore",
               "dotnet",
@@ -300,7 +300,7 @@
             "open_issues": 6,
             "owner": "chasefleming",
             "repo": "elem-go",
-            "stars": 366,
+            "stars": 365,
             "topics": [
               "go",
               "golang",
@@ -476,6 +476,43 @@
         },
         {
           "node_type": "item",
+          "title": "Alloy CSS",
+          "description": "One stylesheet for server-rendered pages: dialogs, menus, drawers, tabs and toasts that work with no JavaScript, so htmx partials need no extra library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "One stylesheet for HTML your server renders. Dialogs, menus, tabs and toasts that work with JavaScript off. No build step.",
+            "homepage": "https://alloyhtml.com",
+            "id": 137232873,
+            "language": "SCSS",
+            "license": "MIT",
+            "last_commit": "2026-11-20T12:25:54Z",
+            "open_issues": 0,
+            "owner": "alloyhtml",
+            "repo": "css",
+            "stars": 78,
+            "topics": [
+              "accessibility",
+              "css",
+              "css-framework",
+              "dark-mode",
+              "dialog",
+              "html",
+              "htmx",
+              "no-dependencies",
+              "no-javascript",
+              "pico-css-alternative",
+              "popover",
+              "responsive",
+              "sass",
+              "server-side-rendering",
+              "utility-classes"
+            ]
+          },
+          "first_seen": "2026-11-20T14:15:26.409Z"
+        },
+        {
+          "node_type": "item",
           "title": "htmx-ext-shoelace",
           "description": "An extension to make Shoelace elements work seamlessly with HTMX.",
           "children": [],
@@ -639,7 +676,7 @@
             "id": 981653813,
             "language": "CSS",
             "license": "MIT",
-            "last_commit": "2026-11-13T04:05:57Z",
+            "last_commit": "2026-11-20T04:06:02Z",
             "open_issues": 0,
             "owner": "katallaxie",
             "repo": "htmx",
@@ -896,6 +933,44 @@
           "description": null,
           "node_type": "group",
           "title": "Common Lisp"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "HDA_with_Cpp",
+              "description": "Hypermedia-driven app example in C++. Demo site",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Hypermedia-driven application based on htmx and Drogon C++ web framework",
+                "homepage": "https://hypermedia.software",
+                "id": 583446888,
+                "language": "C++",
+                "license": "MIT",
+                "last_commit": "2026-05-28T08:45:19Z",
+                "open_issues": 0,
+                "owner": "brakmic",
+                "repo": "HDA_with_Cpp",
+                "stars": 42,
+                "topics": [
+                  "cpp",
+                  "cpp-programming",
+                  "html",
+                  "htmx",
+                  "hypermedia",
+                  "javascript",
+                  "responsive-web-design",
+                  "rest-api",
+                  "web-application"
+                ]
+              },
+              "first_seen": "2026-11-20T14:15:26.409Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "C++"
         },
         {
           "children": [
@@ -1372,7 +1447,7 @@
                 "open_issues": 0,
                 "owner": "donseba",
                 "repo": "go-htmx",
-                "stars": 603,
+                "stars": 602,
                 "topics": [
                   "go-htmx",
                   "golang",
@@ -1400,7 +1475,7 @@
                 "open_issues": 6,
                 "owner": "chasefleming",
                 "repo": "elem-go",
-                "stars": 366,
+                "stars": 365,
                 "topics": [
                   "go",
                   "golang",
@@ -1426,7 +1501,7 @@
                 "open_issues": 6,
                 "owner": "chasefleming",
                 "repo": "elem-go",
-                "stars": 366,
+                "stars": 365,
                 "topics": [
                   "go",
                   "golang",
@@ -1511,6 +1586,34 @@
                 ]
               },
               "first_seen": "2026-08-28T17:37:40.528Z"
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub Activity Tracker",
+              "description": "Live GitHub activity feed and annual contribution calendar visualizer built with Go, Templ, and HTMX.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": "https://githubactivitytracker.vercel.app/",
+                "id": 1461173817,
+                "language": "Go",
+                "license": null,
+                "last_commit": "2026-11-19T12:39:24Z",
+                "open_issues": 0,
+                "owner": "itsVrushal",
+                "repo": "Github-activity-tracker",
+                "stars": 2,
+                "topics": [
+                  "developer-tools",
+                  "docker",
+                  "github-api",
+                  "golang",
+                  "htmx",
+                  "templ"
+                ]
+              },
+              "first_seen": "2026-11-20T14:15:26.409Z"
             }
           ],
           "description": null,
@@ -1535,7 +1638,7 @@
                 "open_issues": 2,
                 "owner": "wiverson",
                 "repo": "htmx-demo",
-                "stars": 327,
+                "stars": 326,
                 "topics": [
                   "htmx",
                   "hyperscript",
@@ -1707,7 +1810,7 @@
                 "id": 305154838,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-19T13:03:45Z",
+                "last_commit": "2026-11-20T14:10:31Z",
                 "open_issues": 21,
                 "owner": "adamchainz",
                 "repo": "django-htmx",
@@ -1734,7 +1837,7 @@
                 "open_issues": 14,
                 "owner": "PyHAT-stack",
                 "repo": "awesome-python-htmx",
-                "stars": 1337,
+                "stars": 1336,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:37:40.528Z"
@@ -2013,6 +2116,39 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T17:37:40.528Z"
+            },
+            {
+              "node_type": "item",
+              "title": "socnet",
+              "description": "Social network built with Django and htmx: posts, comments, likes, subscriptions, a news feed, search, and real-time messages over WebSockets with Django Channels.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Social network built with Django and htmx: posts, comments, real-time messages over WebSockets, subscriptions and search, in English and Russian.",
+                "homepage": null,
+                "id": 502114608,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-20T09:38:45Z",
+                "open_issues": 2,
+                "owner": "monosans",
+                "repo": "socnet",
+                "stars": 11,
+                "topics": [
+                  "bootstrap5",
+                  "django",
+                  "django-channels",
+                  "docker",
+                  "htmx",
+                  "postgresql",
+                  "pwa",
+                  "python",
+                  "redis",
+                  "social-network",
+                  "websockets"
+                ]
+              },
+              "first_seen": "2026-11-20T14:15:26.409Z"
             },
             {
               "node_type": "item",
@@ -2481,8 +2617,8 @@
                 "id": 336095791,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-11-18T12:24:51Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-20T05:32:32Z",
+                "open_issues": 7,
                 "owner": "derkoe",
                 "repo": "quarkus-htmx-todos",
                 "stars": 50,
@@ -2546,7 +2682,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T14:37:16.314Z",
+    "last_updated": "2026-11-20T14:15:26.409Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about htmx",
@@ -2554,11 +2690,11 @@
       "id": 345000191,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-11-05T05:47:31Z",
-      "open_issues": 11,
+      "last_commit": "2026-11-20T05:49:30Z",
+      "open_issues": 6,
       "owner": "rajasegar",
       "repo": "awesome-htmx",
-      "stars": 2331,
+      "stars": 2330,
       "topics": [
         "awesome",
         "awesome-list",
@@ -2566,7 +2702,7 @@
         "htmx"
       ]
     },
-    "original_repository_sha": "f6d9f21e01cc7bc05c16f87d4a59fadf31fc36be",
+    "original_repository_sha": "b2fb99b5ad4b159ef1c3b8b2c36cd8e697039d57",
     "enhanced_repository": "enhansome/enhansome-htmx",
     "enhanced_repository_description": null,
     "title": "Awesome Htmx with stars"
