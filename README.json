@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-11-20T20:13:14Z",
-            "open_issues": 323,
+            "open_issues": 324,
             "owner": "bigskysoftware",
             "repo": "htmx",
-            "stars": 49654,
+            "stars": 49655,
             "topics": [
               "hateoas",
               "html",
@@ -76,11 +76,11 @@
             "id": 305154838,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-20T14:10:31Z",
+            "last_commit": "2026-11-23T21:19:19Z",
             "open_issues": 21,
             "owner": "adamchainz",
             "repo": "django-htmx",
-            "stars": 2018,
+            "stars": 2017,
             "topics": [
               "django"
             ]
@@ -138,7 +138,7 @@
             "id": 627567877,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T20:37:57Z",
+            "last_commit": "2026-11-23T21:20:41Z",
             "open_issues": 0,
             "owner": "openrundev",
             "repo": "openrun",
@@ -173,19 +173,25 @@
             "id": 769005895,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-23T13:28:50Z",
-            "open_issues": 17,
+            "last_commit": "2026-11-24T15:31:23Z",
+            "open_issues": 15,
             "owner": "getludic",
             "repo": "ludic",
             "stars": 897,
             "topics": [
               "async",
+              "components",
               "django",
               "fastapi",
+              "html",
               "html-css-js",
               "htmx",
+              "hypermedia",
               "python",
-              "template-engine"
+              "starlette",
+              "t-strings",
+              "template-engine",
+              "type-safe"
             ]
           },
           "first_seen": "2026-08-28T17:37:40.528Z"
@@ -206,7 +212,7 @@
             "open_issues": 2,
             "owner": "angelofallars",
             "repo": "htmx-go",
-            "stars": 807,
+            "stars": 806,
             "topics": []
           },
           "first_seen": "2026-08-28T17:37:40.528Z"
@@ -1381,7 +1387,7 @@
                 "open_issues": 2,
                 "owner": "mikestefanello",
                 "repo": "pagoda",
-                "stars": 2965,
+                "stars": 2964,
                 "topics": [
                   "admin",
                   "admin-dashboard",
@@ -1810,11 +1816,11 @@
                 "id": 305154838,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-20T14:10:31Z",
+                "last_commit": "2026-11-23T21:19:19Z",
                 "open_issues": 21,
                 "owner": "adamchainz",
                 "repo": "django-htmx",
-                "stars": 2018,
+                "stars": 2017,
                 "topics": [
                   "django"
                 ]
@@ -2129,7 +2135,7 @@
                 "id": 502114608,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-23T09:56:07Z",
+                "last_commit": "2026-11-24T07:37:29Z",
                 "open_issues": 1,
                 "owner": "monosans",
                 "repo": "socnet",
@@ -2682,7 +2688,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T16:20:41.557Z",
+    "last_updated": "2026-11-24T16:09:55.856Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about htmx",
