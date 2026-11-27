@@ -15,7 +15,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ## Official
 
-* [GitHub](https://github.com/bigskysoftware/htmx) ⭐ 49,666 | 🐛 328 | 🌐 JavaScript | 📅 2026-11-20
+* [GitHub](https://github.com/bigskysoftware/htmx) ⭐ 49,664 | 🐛 329 | 🌐 JavaScript | 📅 2026-11-20
 * [Website](https://htmx.org)
 * [Twitter](https://twitter.com/htmx_org?lang=en)
 * [Discord Server](https://htmx.org/discord)
@@ -79,7 +79,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 * [django-htmx](https://github.com/adamchainz/django-htmx) ⭐ 2,018 | 🐛 21 | 🌐 JavaScript | 📅 2026-11-25 - Django integration.
 * [DelphiMVCFramework](https://github.com/danieleteti/delphimvcframework) ⭐ 1,421 | 🐛 10 | 🌐 Pascal | 📅 2026-11-17 - DelphiMVCFramework integration support for htmx (class helper in MVCFramework.HTMX)
-* [Clace](https://github.com/claceio/clace) ⭐ 1,004 | 🐛 0 | 🌐 Go | 📅 2026-11-23 - Hypermedia based internal tools for teams. Application server for containerized apps.
+* [Clace](https://github.com/claceio/clace) ⭐ 1,007 | 🐛 0 | 🌐 Go | 📅 2026-11-23 - Hypermedia based internal tools for teams. Application server for containerized apps.
 * [ludic](https://github.com/paveldedik/ludic) ⭐ 897 | 🐛 13 | 🌐 Python | 📅 2026-11-26 - Lightweight framework for building dynamic HTML pages in pure Python with HTMX.
 * [htmx-go](https://github.com/angelofallars/htmx-go) ⭐ 806 | 🐛 2 | 🌐 Go | 📅 2024-11-30 - Go integration compatible with `net/http`, prioritizing type safety.
 * [htmx-lsp](https://github.com/ThePrimeagen/htmx-lsp) ⭐ 708 | 🐛 11 | 🌐 Rust | 📅 2025-10-18 - Language Server Protocol for Neovim to supercharge HTMX development
@@ -90,7 +90,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 * [sprae](https://github.com/dy/sprae) ⭐ 213 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-17 - Client-side reactivity in HTML attributes, to pair with htmx for local UI state without a build step.
 * [htmx-debugger](https://github.com/NomadicDaddy/htmx-debugger) ⭐ 146 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-05 - A Chrome extension for debugging and viewing htmx events and attributes
 * [htmx-rails](https://github.com/rootstrap/htmx-rails) ⭐ 119 | 🐛 3 | 🌐 Ruby | 📅 2024-07-12 - Rails integration.
-* [Alloy CSS](https://github.com/alloyhtml/css) ⭐ 89 | 🐛 0 | 🌐 SCSS | 📅 2026-11-22 - One stylesheet for server-rendered pages: dialogs, menus, drawers, tabs and toasts that work with no JavaScript, so htmx partials need no extra library.
+* [Alloy CSS](https://github.com/alloyhtml/css) ⭐ 91 | 🐛 0 | 🌐 SCSS | 📅 2026-11-27 - One stylesheet for server-rendered pages: dialogs, menus, drawers, tabs and toasts that work with no JavaScript, so htmx partials need no extra library.
 * [codeigniter-htmx](https://github.com/michalsn/codeigniter-htmx) ⭐ 83 | 🐛 2 | 🌐 PHP | 📅 2026-09-02 - CodeIgniter 4 framework integration.
 * [Giraffe.Htmx](https://github.com/bit-badger/Giraffe.Htmx) ⭐ 79 | 🐛 0 | 🌐 F# | 📅 2024-05-23 - Extensions for Giraffe to support development with htmx.
 * [htmx-ext-shoelace](https://github.com/benopotamus/htmx-ext-shoelace) ⭐ 76 | 🐛 3 | 🌐 HTML | 📅 2025-02-15 - An extension to make Shoelace elements work seamlessly with HTMX.
@@ -201,7 +201,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ### Go
 
-* [pagoda](https://github.com/mikestefanello/pagoda) ⭐ 2,964 | 🐛 2 | 🌐 Go | 📅 2026-10-30 - Rapid, easy full-stack web development starter kit in Go with HTMX support and examples.
+* [pagoda](https://github.com/mikestefanello/pagoda) ⭐ 2,965 | 🐛 2 | 🌐 Go | 📅 2026-10-30 - Rapid, easy full-stack web development starter kit in Go with HTMX support and examples.
 * [Pushup](https://github.com/adhocteam/pushup) ⭐ 851 | 🐛 49 | 🌐 Go | 📅 2026-07-02 - A server-side, page-oriented web framework for the Go programming language.
 * [GO HTMX](https://github.com/donseba/go-htmx) ⭐ 601 | 🐛 0 | 🌐 Go | 📅 2026-11-05 - Seamless HTMX Integration for Go Applications.
 * [Simple Counter App](https://github.com/chasefleming/elem-go/tree/main/examples/htmx-fiber-counter) ⭐ 365 | 🐛 6 | 🌐 Go | 📅 2026-10-30 - A simple counter app built with `htmx`, `elem-go`, and `Go Fiber`.
@@ -240,7 +240,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 * [htmx and SSE with FastAPI](https://github.com/vlcinsky/fastapi-sse-htmx) ⭐ 44 | 🐛 0 | 🌐 Python | 📅 2021-06-05 - FastAPI based web app sending Server Sent Events to frontend app created with htmx.
 * [flask-htmx-boilerplate](https://github.com/marcusschiesser/flask-htmx-boilerplate) ⭐ 37 | 🐛 1 | 🌐 HTML | 📅 2021-10-18 - Boilerplate template for a Python Flask application with HTMX and Tailwind CSS
 * [owela-club](https://github.com/adamchainz/owela-club) ⭐ 35 | 🐛 0 | 🌐 Python | 📅 2022-05-31 - Play the Namibian game of Owela against a terrible AI. Built using Django and htmx.
-* [socnet](https://github.com/monosans/socnet) ⭐ 11 | 🐛 2 | 🌐 Python | 📅 2026-11-26 - Social network built with Django and htmx: posts, comments, likes, subscriptions, a news feed, search, and real-time messages over WebSockets with Django Channels.
+* [socnet](https://github.com/monosans/socnet) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-11-27 - Social network built with Django and htmx: posts, comments, likes, subscriptions, a news feed, search, and real-time messages over WebSockets with Django Channels.
 * [django-htmx-todo](https://github.com/jaredlockhart/django-htmx-todo) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2020-11-14
 * [Flask-Sock HTMX](https://github.com/paluigi/flask-htmx) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2022-04-18 - Very short example combining HTMX with [Flask-Sock](https://flask-sock.readthedocs.io/en/latest/) for self-updating webpages with minimal dependencies.
 * [Lexicon App](https://github.com/jgirardet/djlexique) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2023-03-20 - Lexicon app using django3.2, htmx, hyperscript.
@@ -304,4 +304,4 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
